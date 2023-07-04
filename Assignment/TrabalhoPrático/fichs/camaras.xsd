@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <xsd:element name="municipio" type="xsd:string" />
+  
+  <xsd:element name="presidenteC" type="xsd:string" />
+  
+  <xsd:element name="presidenteA" type="xsd:string" />
+  
+  <xsd:element name="feriado" type="xsd:string" />
+  
+  <xsd:element name="email" type="xsd:string" />
+  
+  <xsd:element name="site" type="xsd:string" />
+  
+  <xsd:element name="telefone">
+    <xsd:simpleType>
+      <xsd:restriction base="xsd:string">
+        <xsd:pattern value="23[0-9]\s*[0-9]{3}\s*[0-9]{3}" />
+      </xsd:restriction>
+    </xsd:simpleType>
+  </xsd:element>
+  
+  <xsd:element name="numfreguesias" type="xsd:string" />
+  
+  <xsd:element name="area" type="xsd:string" />
+  
+  <xsd:element name="numhabitantes" type="xsd:string" />
+  
+  <xsd:element name="brasao">
+    <xsd:simpleType>
+      <xsd:restriction base="xsd:string">
+        <xsd:pattern value="https\:\/\/www\.anmp\.pt\/image\/munap\/M[0-9]+b.jpg" />
+      </xsd:restriction>
+    </xsd:simpleType>
+  </xsd:element>
+
+  <xsd:attribute name="id" type="xsd:ID" />
+
+  <xsd:element name="camaras">
+    <xsd:complexType>
+      <xsd:sequence>
+
+        <xsd:element name="camara" minOccurs="1" maxOccurs="unbounded">
+          <xsd:complexType>
+            <xsd:sequence>
+
+              <xsd:element ref="municipio" minOccurs="1" maxOccurs="1" />
+
+              <xsd:element ref="presidenteC" minOccurs="1" maxOccurs="1" />
+
+              <xsd:element ref="presidenteA" minOccurs="0" maxOccurs="1" />
+
+              <xsd:element ref="email" minOccurs="1" maxOccurs="1" />
+
+              <xsd:element ref="site" minOccurs="1" maxOccurs="1" />
+
+              <xsd:element ref="telefone" minOccurs="1" maxOccurs="1" />
+
+              <xsd:element ref="numfreguesias" minOccurs="1" maxOccurs="1" />
+
+              <xsd:element ref="area" minOccurs="1" maxOccurs="1" />
+
+              <xsd:element ref="numhabitantes" minOccurs="1" maxOccurs="1" />
+
+              <xsd:element ref="feriado" minOccurs="1" maxOccurs="1" />
+
+              <xsd:element ref="brasao" minOccurs="1" maxOccurs="1" />
+
+            </xsd:sequence>
+            <xsd:attribute ref="id" use="required" />
+          </xsd:complexType>
+        </xsd:element>
+
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  
+</xsd:schema>

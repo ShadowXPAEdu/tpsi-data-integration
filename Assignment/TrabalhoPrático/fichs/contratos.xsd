@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <xsd:element name="nif">
+    <xsd:simpleType>
+      <xsd:restriction base="xsd:string">
+        <xsd:pattern value="[0-9]{9}" />
+      </xsd:restriction>
+    </xsd:simpleType>
+  </xsd:element>
+
+  <xsd:element name="objcontrato" type="xsd:string" />
+
+  <xsd:element name="preco" type="xsd:string" />
+
+  <xsd:element name="datapub">
+    <xsd:simpleType>
+      <xsd:restriction base="xsd:string">
+        <xsd:pattern value="([0-2][0-9]|3[01])-(0[0-9]|1[0-2])-(19|20)[0-9]{2}" />
+      </xsd:restriction>
+    </xsd:simpleType>
+  </xsd:element>
+
+  <xsd:element name="adjudicatario" type="xsd:string" />
+
+  <xsd:attribute name="id" type="xsd:ID" />
+
+  <xsd:attribute name="nome" type="xsd:string" />
+  
+  <xsd:element name="contratos">
+    <xsd:complexType>
+      <xsd:sequence>
+
+        <xsd:element name="municipio" minOccurs="1" maxOccurs="unbounded">
+          <xsd:complexType>
+            <xsd:sequence>
+			
+			
+			  <xsd:element ref="nif" minOccurs="1" maxOccurs="1" />
+
+
+              <xsd:element name="contrato" minOccurs="1" maxOccurs="unbounded">
+                <xsd:complexType>
+                  <xsd:sequence>
+
+                    <xsd:element ref="objcontrato" minOccurs="1" maxOccurs="1" />
+
+                    <xsd:element ref="preco" minOccurs="1" maxOccurs="1" />
+
+                    <xsd:element ref="datapub" minOccurs="1" maxOccurs="1" />
+
+                    <xsd:element ref="adjudicatario" minOccurs="1" maxOccurs="1" />
+
+                  </xsd:sequence>
+                  <xsd:attribute ref="id" use="required" />
+                </xsd:complexType>
+              </xsd:element>
+
+            </xsd:sequence>
+            <xsd:attribute ref="nome" use="required" />
+          </xsd:complexType>
+        </xsd:element>
+        
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+</xsd:schema>

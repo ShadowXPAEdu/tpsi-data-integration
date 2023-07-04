@@ -1,0 +1,21 @@
+site: http://www.base.gov.pt/Base/pt/ResultadosPesquisa?type=contratos&query=adjudicanteid%3D
+
+Arganil: 3106
+Cantanhede 911
+Coimbra: 3743
+Condeixa-a-Nova: 898
+Figueira da foz: 24242
+Gois: 2251
+Lousa: 45
+Mealhada: 11267
+Mira: 1477
+Miranda do Corvo: 15499
+Montemor-o-Velho: 8759
+Mortágua: 1013
+Oliveira do Hospital: 658
+Pampilhosa da Serra: 5416
+Penacova: 212
+Penela: 15496
+Soure: 671
+Tabua: 4497
+Vila Nova de Poiares: 5938

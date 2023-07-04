@@ -1,0 +1,2910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contratos>
+     <municipio nome="Arganil">
+          <nif>506833232</nif>
+          <contrato id="id0">
+               <objcontrato>Serviços especializados – Música, no âmbito do Plano Intermunicipal de...</objcontrato>
+               <preco>11.700,00 €</preco>
+               <datapub>23-01-2019</datapub>
+               <adjudicatario>Nuno Miguel Travassos da Cruz</adjudicatario>
+          </contrato>
+          <contrato id="id1">
+               <objcontrato>REQUALIFICAÇÃO DO ACESSO AO CAMPO DR.EDUARDO RALHA E PARQUE DE...</objcontrato>
+               <preco>41.582,50 €</preco>
+               <datapub>22-01-2019</datapub>
+               <adjudicatario>SOCITOP, UNIPESSOAL, LDA</adjudicatario>
+          </contrato>
+          <contrato id="id2">
+               <objcontrato>Concurso Público para a aquisição de equipamento de transporte e...</objcontrato>
+               <preco>185.675,00 €</preco>
+               <datapub>21-01-2019</datapub>
+               <adjudicatario>OVO Solutions - Soluções Ambientais, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id3">
+               <objcontrato>Serviços de Terapia da Fala no âmbito do Plano Intermunicipal...</objcontrato>
+               <preco>19.600,00 €</preco>
+               <datapub>17-01-2019</datapub>
+               <adjudicatario>Inês Carolina Fernandes Coelho</adjudicatario>
+          </contrato>
+          <contrato id="id4">
+               <objcontrato>Serviços especializados – Inglês, no âmbito do Plano Intermunicipal de...</objcontrato>
+               <preco>11.700,00 €</preco>
+               <datapub>17-01-2019</datapub>
+               <adjudicatario>Paula Cristina dos Santos Custódio</adjudicatario>
+          </contrato>
+          <contrato id="id5">
+               <objcontrato>INTERVENÇÕES VÁRIAS EM INFRAESTRUTURAS HIDRÁULICAS NA EN342</objcontrato>
+               <preco>122.932,85 €</preco>
+               <datapub>15-01-2019</datapub>
+               <adjudicatario>CIPRIANO PEREIRA DE CARVALHO &amp; FILHOS LDA</adjudicatario>
+          </contrato>
+          <contrato id="id6">
+               <objcontrato>Prestação de serviço para a execução de produção de cartografia...</objcontrato>
+               <preco>14.580,00 €</preco>
+               <datapub>10-01-2019</datapub>
+               <adjudicatario>GEOLAYER - GEOENGENHARIA E SERVIÇOS, LDA</adjudicatario>
+          </contrato>
+          <contrato id="id7">
+               <objcontrato>Demolição de Imóveis em Benfeita, Vinhó, Pombeiro da Beira, Corgas,...</objcontrato>
+               <preco>109.610,00 €</preco>
+               <datapub>02-01-2019</datapub>
+               <adjudicatario>Construções Alfredo Rodrigues José, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id8">
+               <objcontrato>Ajuste direto para Fornecimento e Montagem de Equipamento para a...</objcontrato>
+               <preco>14.780,20 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Elifri-Electrónica e Frio Industrial, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id9">
+               <objcontrato>Concurso Público Para Aquisição de Serviços de Ensaios Laboratoriais Acreditados...</objcontrato>
+               <preco>66.080,00 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Itecons- Instituto de investigação e desenvolvimento tecnológico par a construção, energia, ambiente e sustentabilidade</adjudicatario>
+          </contrato>
+          <contrato id="id10">
+               <objcontrato>Prestação de serviços para a instalação e substituição de contadores...</objcontrato>
+               <preco>22.267,20 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>CUNHA &amp; ANTUNES, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id11">
+               <objcontrato>Ajuste direto para aquisição de serviços para Elaboração do Estudo...</objcontrato>
+               <preco>14.250,00 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Quero Vento - Serviços em Ambiente, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id12">
+               <objcontrato>Concurso Público Para Aquisição de Serviços de Ensaios Laboratoriais Acreditados...</objcontrato>
+               <preco>66.080,00 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Itecons- Instituto de investigação e desenvolvimento tecnológico par a construção, energia, ambiente e sustentabilidade</adjudicatario>
+          </contrato>
+          <contrato id="id13">
+               <objcontrato>procedimento do tipo Ajuste Direto para Prestação de Serviços para...</objcontrato>
+               <preco>19.990,00 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>SÍNTESE , CONSULTORIA EM PLANEAMENTO , Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id14">
+               <objcontrato>Prestação de serviços para a "Fiscalização da empreitada de reabilitação...</objcontrato>
+               <preco>19.125,00 €</preco>
+               <datapub>06-12-2018</datapub>
+               <adjudicatario>ITeCons - Instituto de Investigação e Desenvolvimento Tecnológico para a Construção, Energia, Ambiente e Sustentabilidade</adjudicatario>
+          </contrato>
+          <contrato id="id15">
+               <objcontrato>Ajuste direto para a “Prestação de serviços de impressão do...</objcontrato>
+               <preco>18.960,00 €</preco>
+               <datapub>06-12-2018</datapub>
+               <adjudicatario>FIG - Industrias Gráficas</adjudicatario>
+          </contrato>
+          <contrato id="id16">
+               <objcontrato>Ajuste direto para a prestação de serviços “Convívio com almoço,...</objcontrato>
+               <preco>5.812,00 €</preco>
+               <datapub>08-11-2018</datapub>
+               <adjudicatario>Albertino e Filhos Lda</adjudicatario>
+          </contrato>
+          <contrato id="id17">
+               <objcontrato>Confeção, fornecimento e transporte de refeições (almoços) e lanches escolares...</objcontrato>
+               <preco>12.518,52 €</preco>
+               <datapub>28-09-2018</datapub>
+               <adjudicatario>Cáritas diocesana de Coimbra</adjudicatario>
+          </contrato>
+          <contrato id="id18">
+               <objcontrato>Confeção, fornecimento e transporte de refeições (almoços) e lanches escolares...</objcontrato>
+               <preco>10.136,26 €</preco>
+               <datapub>28-09-2018</datapub>
+               <adjudicatario>CEntro Social e Paroquial do Sarzedo</adjudicatario>
+          </contrato>
+          <contrato id="id19">
+               <objcontrato>Confeção, fornecimento e transporte de refeições (almoços) e lanches escolares...</objcontrato>
+               <preco>131.465,03 €</preco>
+               <datapub>28-09-2018</datapub>
+               <adjudicatario>Uniself – Sociedade de restaurantes públicos e privados, S.A</adjudicatario>
+          </contrato>
+          <contrato id="id20">
+               <objcontrato>Prestação de serviços de “Auditoria e Certificação Legal de Contas”...</objcontrato>
+               <preco>25.500,00 €</preco>
+               <datapub>27-09-2018</datapub>
+               <adjudicatario>BDO &amp; Associados, Sociedade de Revisores Oficiais de Contas, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id21">
+               <objcontrato>Concurso Público para a "Aquisição de material de transporte -...</objcontrato>
+               <preco>64.051,32 €</preco>
+               <datapub>18-09-2018</datapub>
+               <adjudicatario>Renault Portugal, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id22">
+               <objcontrato>Ajuste direto para a prestação de serviços de “Aluguer, Montagem,...</objcontrato>
+               <preco>6.250,00 €</preco>
+               <datapub>14-09-2018</datapub>
+               <adjudicatario>Humberto Rodrigues - Iluminações , Unipessoal , Lda</adjudicatario>
+          </contrato>
+          <contrato id="id23">
+               <objcontrato>Ajuste direto para a prestação de serviços de Saúde no...</objcontrato>
+               <preco>14.999,86 €</preco>
+               <datapub>12-09-2018</datapub>
+               <adjudicatario>Alvalabor – Medicina do Trabalho, Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id24">
+               <objcontrato>Ajuste direto para a Prestação de Serviços de Segurança e...</objcontrato>
+               <preco>5.670,00 €</preco>
+               <datapub>12-09-2018</datapub>
+               <adjudicatario>IB.MI, Lda.</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Cantanhede">
+          <nif>506087000</nif>
+          <contrato id="id25">
+               <objcontrato>Requalificação Urbana da envolvente ao Pavilhão de São Caetano, por...</objcontrato>
+               <preco>42.751,71 €</preco>
+               <datapub>18-01-2019</datapub>
+               <adjudicatario>Engiperfil, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id26">
+               <objcontrato>Execução de Passeios na EN234 em Ourentã, por Empreitada -...</objcontrato>
+               <preco>79.454,70 €</preco>
+               <datapub>18-01-2019</datapub>
+               <adjudicatario>Engiperfil, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id27">
+               <objcontrato>Construção / Beneficiação / Reparação de Edifícios Escolares (JI /...</objcontrato>
+               <preco>36.784,50 €</preco>
+               <datapub>15-01-2019</datapub>
+               <adjudicatario>Eugreb Invest, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id28">
+               <objcontrato>Restauro do relógio da torre do Edifício dos Paços do...</objcontrato>
+               <preco>6.336,00 €</preco>
+               <datapub>27-12-2018</datapub>
+               <adjudicatario>Cousinha - Electromecânica e Informática, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id29">
+               <objcontrato>Prestação de serviços de fresagem da estrada Camarneira / Covões...</objcontrato>
+               <preco>15.219,17 €</preco>
+               <datapub>27-12-2018</datapub>
+               <adjudicatario>Prioridade - Construção de Vias de Comunicação, S. A.</adjudicatario>
+          </contrato>
+          <contrato id="id30">
+               <objcontrato>Fornecimento de oito kits de primeira intervenção - AD-CCP-ABS n.º...</objcontrato>
+               <preco>8.162,26 €</preco>
+               <datapub>27-12-2018</datapub>
+               <adjudicatario>Maquitudo - Sociedade de Máquinas e Ferramentas, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id31">
+               <objcontrato>Prestação de serviços para apoio ao Posto de Turismo, para...</objcontrato>
+               <preco>9.261,36 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>Francisco Pais Montês</adjudicatario>
+          </contrato>
+          <contrato id="id32">
+               <objcontrato>Prestação de serviços de apoio técnico na área de recursos...</objcontrato>
+               <preco>14.658,72 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>Nuno Filipe de Oliveira Ferreira</adjudicatario>
+          </contrato>
+          <contrato id="id33">
+               <objcontrato>Prestação de serviços para apoio técnico à instalação e manutenção...</objcontrato>
+               <preco>13.800,00 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>João Luís Relva de Sá Caracitas</adjudicatario>
+          </contrato>
+          <contrato id="id34">
+               <objcontrato>Prestação de serviços de consultoria técnica de Engenharia Civil para...</objcontrato>
+               <preco>14.658,72 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>Sara Cadima André Grilo</adjudicatario>
+          </contrato>
+          <contrato id="id35">
+               <objcontrato>Prestação de serviços de consultoria técnica na área de Turismo...</objcontrato>
+               <preco>14.658,72 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>Inês Cristina dos Santos Pronto</adjudicatario>
+          </contrato>
+          <contrato id="id36">
+               <objcontrato>Prestação de serviços de regente / maestro para o Cantemus...</objcontrato>
+               <preco>7.380,00 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>António Augusto Pedrosa Ferreira de Mesquita</adjudicatario>
+          </contrato>
+          <contrato id="id37">
+               <objcontrato>Protocolo de colaboração com a Agência Portuguesa do Ambiente para...</objcontrato>
+               <preco>74.980,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Marvão Máquinas - Aluguer de Máquinas, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id38">
+               <objcontrato>Ampliação da rede Wi-fi do Concelho de Cantanhede - CP-CCP-ABS...</objcontrato>
+               <preco>5.962,15 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Amperpolo - Montagens Elétricas, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id39">
+               <objcontrato>Ampliação da rede Wi-fi do Concelho de Cantanhede - CP-CCP-ABS...</objcontrato>
+               <preco>61.284,11 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Meo - Serviços de Comunicações e Multimédia, S. A.</adjudicatario>
+          </contrato>
+          <contrato id="id40">
+               <objcontrato>Prestação de serviços para a elaboração do projeto para a...</objcontrato>
+               <preco>33.000,00 €</preco>
+               <datapub>17-12-2018</datapub>
+               <adjudicatario>A1V2 - Engenharia Civil e Arquitectura, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id41">
+               <objcontrato>Aquisição de licenças de software Microsoft - CP-CCP-ABS n.º 13/2018</objcontrato>
+               <preco>138.228,57 €</preco>
+               <datapub>29-11-2018</datapub>
+               <adjudicatario>Iten Solutions - Sistemas de Informação, S. A.</adjudicatario>
+          </contrato>
+          <contrato id="id42">
+               <objcontrato>Fornecimento de luminárias led para beneficiação da iluminação do Largo...</objcontrato>
+               <preco>5.949,00 €</preco>
+               <datapub>15-11-2018</datapub>
+               <adjudicatario>Soneres lluminação Pública, S. A.</adjudicatario>
+          </contrato>
+          <contrato id="id43">
+               <objcontrato>Prestação de serviços de consultoria técnica para a Equipa Multidisciplinar...</objcontrato>
+               <preco>19.544,96 €</preco>
+               <datapub>17-10-2018</datapub>
+               <adjudicatario>Rita Maria Antunes Tomás</adjudicatario>
+          </contrato>
+          <contrato id="id44">
+               <objcontrato>Prestação de serviços de consultoria técnica para a Equipa Multidisciplinar...</objcontrato>
+               <preco>19.544,96 €</preco>
+               <datapub>17-10-2018</datapub>
+               <adjudicatario>Gina Maria da Silva Gomes</adjudicatario>
+          </contrato>
+          <contrato id="id45">
+               <objcontrato>Prestação de serviços de consultoria técnica para a Equipa Multidisciplinar...</objcontrato>
+               <preco>19.544,96 €</preco>
+               <datapub>17-10-2018</datapub>
+               <adjudicatario>Anabela Rosa Cruz Barbosa Miraldo Barros Nunes</adjudicatario>
+          </contrato>
+          <contrato id="id46">
+               <objcontrato>Prestação de serviços de consultoria técnica para o Projeto para...</objcontrato>
+               <preco>12.826,38 €</preco>
+               <datapub>17-10-2018</datapub>
+               <adjudicatario>Teresa Catarina Frade Domingues Ribeiro</adjudicatario>
+          </contrato>
+          <contrato id="id47">
+               <objcontrato>Prestação de serviços de consultoria técnica para o Projeto para...</objcontrato>
+               <preco>12.826,38 €</preco>
+               <datapub>17-10-2018</datapub>
+               <adjudicatario>Cláudia Raquel Cirino de Araújo</adjudicatario>
+          </contrato>
+          <contrato id="id48">
+               <objcontrato>Prestação de serviços de consultoria técnica para o Projeto para...</objcontrato>
+               <preco>12.826,38 €</preco>
+               <datapub>17-10-2018</datapub>
+               <adjudicatario>Ana Mafalda Barradas de Almeida Cruz Reis</adjudicatario>
+          </contrato>
+          <contrato id="id49">
+               <objcontrato>Aquisição de equipamentos de cópia, digitalização e impressão, subscrição de...</objcontrato>
+               <preco>89.155,50 €</preco>
+               <datapub>11-09-2018</datapub>
+               <adjudicatario>RRProtec - Soluções Tecnológicas, Lda.</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Coimbra">
+          <nif>506415082</nif>
+          <contrato id="id50">
+               <objcontrato>Aquisição de serviços para o concerto "Rosa" de Luísa Sobral</objcontrato>
+               <preco>8.000,00 €</preco>
+               <datapub>23-01-2019</datapub>
+               <adjudicatario>Locomotiva Azul - Produção e Marketing Cultural, Unipessoal Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id51">
+               <objcontrato>Aquisição de energia elétrica em média tensão e baixa tensão...</objcontrato>
+               <preco>916.367,14 €</preco>
+               <datapub>14-01-2019</datapub>
+               <adjudicatario>Edp Comercial - Comercialização de Energia, S.A</adjudicatario>
+          </contrato>
+          <contrato id="id52">
+               <objcontrato>Aquisição de serviços de concertos para bebés - Convento São...</objcontrato>
+               <preco>7.500,00 €</preco>
+               <datapub>11-01-2019</datapub>
+               <adjudicatario>Musicalmente, Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id53">
+               <objcontrato>Aquisição de maquinaria para manutenção de espaços verdes</objcontrato>
+               <preco>10.282,39 €</preco>
+               <datapub>11-01-2019</datapub>
+               <adjudicatario>Sérgio Galvão, Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id54">
+               <objcontrato>Aquisição de maquinaria para manutenção de espaços verdes</objcontrato>
+               <preco>3.004,54 €</preco>
+               <datapub>11-01-2019</datapub>
+               <adjudicatario>Simopeças - Peças e Componentes para Viaturas de Limpeza Urbana, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id55">
+               <objcontrato>Aquisição de maquinaria para manutenção de espaços verdes</objcontrato>
+               <preco>3.541,00 €</preco>
+               <datapub>10-01-2019</datapub>
+               <adjudicatario>Agrocoimbra, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id56">
+               <objcontrato>Fornecimento contínuo de ferramentas</objcontrato>
+               <preco>6.800,00 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>M. N. Carvalho &amp; Ca, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id57">
+               <objcontrato>Aquisição de ferramentas e utensílios para o Convento de São...</objcontrato>
+               <preco>6.933,19 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>Jofremac - Máquinas Ferramentas e Acessórios, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id58">
+               <objcontrato>Aquisição de alimento para animais de companhia na modalidade de...</objcontrato>
+               <preco>11.000,00 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>Agritorres- Centro Comercial e Agrícola do Canal Retalho, Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id59">
+               <objcontrato>Renovação de certificado energético do Convento São Francisco</objcontrato>
+               <preco>8.000,00 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Certenergia, Estudo e Projetos de Engenharia, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id60">
+               <objcontrato>Aquisição de serviços do espetáculo do grupo musical UHF</objcontrato>
+               <preco>20.000,00 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Aiemera - Produções Musicais, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id61">
+               <objcontrato>Aquisição de serviços de manutenção e assistência técnica aos equipamentos/sistemas...</objcontrato>
+               <preco>36.000,00 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Telescan - Telecomunicações e Sistemas, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id62">
+               <objcontrato>Aquisição de serviços do espetáculo "Banditz Live"</objcontrato>
+               <preco>9.500,00 €</preco>
+               <datapub>27-12-2018</datapub>
+               <adjudicatario>Ritmo Obrigatório, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id63">
+               <objcontrato>Serviços de consultadoria no âmbito do novo Regulamento Geral de...</objcontrato>
+               <preco>37.500,00 €</preco>
+               <datapub>26-12-2018</datapub>
+               <adjudicatario>HLTSYS - Healthysytems, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id64">
+               <objcontrato>Aquisição de serviços de realização de um estudo de viabilidade...</objcontrato>
+               <preco>18.000,00 €</preco>
+               <datapub>26-12-2018</datapub>
+               <adjudicatario>BDO Consulting, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id65">
+               <objcontrato>Produção do evento de "Fim de Ano 2018"</objcontrato>
+               <preco>59.990,00 €</preco>
+               <datapub>26-12-2018</datapub>
+               <adjudicatario>Grif Portugal Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id66">
+               <objcontrato>Aquisição de serviços em regime de avença de um técnico...</objcontrato>
+               <preco>21.285,00 €</preco>
+               <datapub>26-12-2018</datapub>
+               <adjudicatario>NRG - SISTEMAS DE ENERGIAS RENOVÁVEIS, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id67">
+               <objcontrato>Aquisição de serviços de participação do grupo de trabalho -...</objcontrato>
+               <preco>27.000,00 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>Cristina Maria da Silva Robalo Cordeiro</adjudicatario>
+          </contrato>
+          <contrato id="id68">
+               <objcontrato>Aquisição de serviços de participação no grupo de trabalho responsável...</objcontrato>
+               <preco>27.000,00 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>Luís Filipe Martins Menezes</adjudicatario>
+          </contrato>
+          <contrato id="id69">
+               <objcontrato>Aquisição de serviços de pirotecnia para festas de fim de...</objcontrato>
+               <preco>9.990,00 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>Macedos Pirotecnia, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id70">
+               <objcontrato>Aquisição de serviço de seguro de responsabilidade civil de exploração</objcontrato>
+               <preco>60.000,00 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>Fidelidade - Companhia de Seguros, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id71">
+               <objcontrato>Aquisição de serviços do espetáculo de Diogo Piçarra</objcontrato>
+               <preco>27.000,00 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>Universal Music Portugal, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id72">
+               <objcontrato>Aquisição contínua de cadeiras</objcontrato>
+               <preco>12.250,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Julcar Mobiliário Integrado, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id73">
+               <objcontrato>Aquisição de licença ELA-EA</objcontrato>
+               <preco>82.500,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>ESRI PORTUGAL - Sistemas e Informação Geográfica S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id74">
+               <objcontrato>Fornecimento e aplicação de material para retransformação em ambulância de...</objcontrato>
+               <preco>15.500,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Safemobility - Transformação de Veículos Especiais, Unipessoal, Lda</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="CondeixaANova">
+          <nif>501275380</nif>
+          <contrato id="id75">
+               <objcontrato>Serviços jurídicos</objcontrato>
+               <preco>7.200,00 €</preco>
+               <datapub>18-01-2019</datapub>
+               <adjudicatario>MACEDO FERNADES, COSTA MAGALHÃES &amp; ASSOCIADOS, SOCIEDADE DE ADVOGADOS, RL</adjudicatario>
+          </contrato>
+          <contrato id="id76">
+               <objcontrato>Reparação da estrada Alcouce/Bruscos.</objcontrato>
+               <preco>20.897,50 €</preco>
+               <datapub>17-01-2019</datapub>
+               <adjudicatario>Incrível Asfalto - Pavimentações, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id77">
+               <objcontrato>Serviços de Limpeza para o Complexo do Museu PO.RO.S</objcontrato>
+               <preco>18.100,00 €</preco>
+               <datapub>16-01-2019</datapub>
+               <adjudicatario>EUROMEX</adjudicatario>
+          </contrato>
+          <contrato id="id78">
+               <objcontrato>Divulgação do evento "Vislumbre de um Império" na Rede Multibanco</objcontrato>
+               <preco>6.075,00 €</preco>
+               <datapub>07-01-2019</datapub>
+               <adjudicatario>Mol 2 - Multimedia Outdoor on Line Lda</adjudicatario>
+          </contrato>
+          <contrato id="id79">
+               <objcontrato>aquisição de gás propano em garrafas de 45 kg para...</objcontrato>
+               <preco>18.937,50 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Condeixagás-Comércio e Distribuição de Gás, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id80">
+               <objcontrato>Serviços de manutenção dos elevadores instalados nos Edificios PO.RO.S e...</objcontrato>
+               <preco>3.366,00 €</preco>
+               <datapub>02-01-2019</datapub>
+               <adjudicatario>Schmitt-Elevadores, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id81">
+               <objcontrato>Serviços de Assistência Técnica e Monitorização dos Sistemas de intrusão...</objcontrato>
+               <preco>3.989,16 €</preco>
+               <datapub>02-01-2019</datapub>
+               <adjudicatario>Stanley Security Portugal, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id82">
+               <objcontrato>Aquisição por renting de multifunções a cores com serviço de...</objcontrato>
+               <preco>15.500,00 €</preco>
+               <datapub>02-01-2019</datapub>
+               <adjudicatario>Gispert - Comércio de Equipamentos de Escritório e Prestação de Serviços, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id83">
+               <objcontrato>Consulta prévia para aquisição de serviços de Auditor Externo</objcontrato>
+               <preco>17.640,00 €</preco>
+               <datapub>02-01-2019</datapub>
+               <adjudicatario>MARQUES DE ALMEIDA, J. NUNES, V. SIMÕES E ASSOCIADOS, SROC., S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id84">
+               <objcontrato>Aquisição de equipamentos de protecção individual (EPI's)</objcontrato>
+               <preco>8.179,89 €</preco>
+               <datapub>02-01-2019</datapub>
+               <adjudicatario>Equifermaq, Comercio de Máquinas e Ferramentas, ldª</adjudicatario>
+          </contrato>
+          <contrato id="id85">
+               <objcontrato>Aquisição de Contentores de Resíduos Urbanos Indiferenciados - Candidatura POSEUR-03-1911-FC-000140...</objcontrato>
+               <preco>22.415,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Sopinal - Indústria de Equipamentos e Contentores, SA</adjudicatario>
+          </contrato>
+          <contrato id="id86">
+               <objcontrato>Um Território Sustentável - Água - Reparação da Rede de...</objcontrato>
+               <preco>329.265,82 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>LUSOSICÓ - Construções, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id87">
+               <objcontrato>Aquisição de serviços de animação, ligada á temática da romanização,...</objcontrato>
+               <preco>13.800,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Décadas de Sonho - Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id88">
+               <objcontrato>Um território Sustentévl - Água - Reparação da Rede de...</objcontrato>
+               <preco>279.824,82 €</preco>
+               <datapub>18-12-2018</datapub>
+               <adjudicatario>LUSOSICÓ - Construções, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id89">
+               <objcontrato>Um Território Sustentável - Saneamento - Rede de Esgotos da...</objcontrato>
+               <preco>314.634,80 €</preco>
+               <datapub>18-12-2018</datapub>
+               <adjudicatario>Coimbraferrus - Construção Civil, Obras Públicas e Transportes, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id90">
+               <objcontrato>Um Território Sustentável - Transportes Rodoviários - Obras de Urbanização...</objcontrato>
+               <preco>96.691,00 €</preco>
+               <datapub>18-12-2018</datapub>
+               <adjudicatario>LUSOSICÓ - Construções, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id91">
+               <objcontrato>Um Território Sustentável - Saneamento - Redes de Saneamento e...</objcontrato>
+               <preco>294.851,72 €</preco>
+               <datapub>04-12-2018</datapub>
+               <adjudicatario>Pinto &amp; Braz, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id92">
+               <objcontrato>Reparação de uma rede de águas.</objcontrato>
+               <preco>52.745,27 €</preco>
+               <datapub>03-12-2018</datapub>
+               <adjudicatario>Sociedade de Construções Elimur, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id93">
+               <objcontrato>serviços de Coordenação de Segurança para a empreitada "Reabilitação da...</objcontrato>
+               <preco>6.000,00 €</preco>
+               <datapub>03-12-2018</datapub>
+               <adjudicatario>Ana Luisa Afonso dos Santos Nunes</adjudicatario>
+          </contrato>
+          <contrato id="id94">
+               <objcontrato>Reparação de estrada.</objcontrato>
+               <preco>49.933,96 €</preco>
+               <datapub>03-12-2018</datapub>
+               <adjudicatario>Civibérica - Obras Civis, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id95">
+               <objcontrato>Aluguer de espaço na BTL - Bolsa de Turismo de...</objcontrato>
+               <preco>6.525,52 €</preco>
+               <datapub>30-11-2018</datapub>
+               <adjudicatario>Lisboa Feiras Congressos e Eventos-FCE/Associação Empresarial</adjudicatario>
+          </contrato>
+          <contrato id="id96">
+               <objcontrato>Manutenção técnica do website da Autarquia: www.cm-condeixa.pt</objcontrato>
+               <preco>7.500,00 €</preco>
+               <datapub>29-11-2018</datapub>
+               <adjudicatario>PixelStudio Unipessoal, lda</adjudicatario>
+          </contrato>
+          <contrato id="id97">
+               <objcontrato>Aquisição de Solução de Gestão de Filas de Espera</objcontrato>
+               <preco>7.240,00 €</preco>
+               <datapub>26-11-2018</datapub>
+               <adjudicatario>Skillmind - Consultoria e Sistemas de Informação, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id98">
+               <objcontrato>Um Território Sustentável - Águas - Beneficiação de reservatórios, captações...</objcontrato>
+               <preco>13.570,00 €</preco>
+               <datapub>21-11-2018</datapub>
+               <adjudicatario>Calado &amp; Duarte, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id99">
+               <objcontrato>Aquisição de serviços de arboricultura ornamental especializada</objcontrato>
+               <preco>5.500,00 €</preco>
+               <datapub>20-11-2018</datapub>
+               <adjudicatario>Árvores &amp; Pessoas – Gestão de Árvores no Espaço Urbano, Lda.</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="FigueiradaFoz">
+          <nif>501305580</nif>
+          <contrato id="id100">
+               <objcontrato>Aquisição de Serviços de Instalação de equipamento e Fornecimento de...</objcontrato>
+               <preco>24.191,60 €</preco>
+               <datapub>21-01-2019</datapub>
+               <adjudicatario>MEO - Serviço de Comunicações e Multimédia, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id101">
+               <objcontrato>ADG/2461/2018 - Contratação de serviços para limpeza do lago envolvente...</objcontrato>
+               <preco>17.968,00 €</preco>
+               <datapub>18-01-2019</datapub>
+               <adjudicatario>Trilado, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id102">
+               <objcontrato>CPG/020/2018 - Aquisição de serviço para a elaboração de projetos...</objcontrato>
+               <preco>11.800,00 €</preco>
+               <datapub>18-01-2019</datapub>
+               <adjudicatario>CENTRAL PROJECTOS, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id103">
+               <objcontrato>Contratação de serviços para recolha e transporte de RSU e...</objcontrato>
+               <preco>79.520,00 €</preco>
+               <datapub>14-01-2019</datapub>
+               <adjudicatario>SUMA – SERVIÇOS URBANOS E MEIO AMBIENTE, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id104">
+               <objcontrato>Reposição do espetáculo Carminho</objcontrato>
+               <preco>6.000,00 €</preco>
+               <datapub>11-01-2019</datapub>
+               <adjudicatario>Ruela Music Management, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id105">
+               <objcontrato>CP N.º 6/2018 - Contratação de serviços de manutenção e...</objcontrato>
+               <preco>525.000,00 €</preco>
+               <datapub>10-01-2019</datapub>
+               <adjudicatario>Recolte - Serviços e Meio Ambiente, SA</adjudicatario>
+          </contrato>
+          <contrato id="id106">
+               <objcontrato>CP N.º 6/2018 - Contratação de serviços de manutenção e...</objcontrato>
+               <preco>464.999,76 €</preco>
+               <datapub>10-01-2019</datapub>
+               <adjudicatario>PERENE, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id107">
+               <objcontrato>Contratação de serviços na área da comunicação, em regime de...</objcontrato>
+               <preco>19.800,00 €</preco>
+               <datapub>10-01-2019</datapub>
+               <adjudicatario>Bárbara Figueiredo Ferreira Rodriges</adjudicatario>
+          </contrato>
+          <contrato id="id108">
+               <objcontrato>CPG/88/2018 - Aquisição de Cartografia Digital, com vista à execução...</objcontrato>
+               <preco>19.500,00 €</preco>
+               <datapub>07-01-2019</datapub>
+               <adjudicatario>Socarto - Sociedade de Levantamentos Topo Cartográficos Lda</adjudicatario>
+          </contrato>
+          <contrato id="id109">
+               <objcontrato>Museu Etnográfico de Lavos</objcontrato>
+               <preco>77.670,59 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>Engiperfil, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id110">
+               <objcontrato>ADG/2058/2018 - A contratação de serviços para a alteração aos...</objcontrato>
+               <preco>4.302,00 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>Roth Projectos, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id111">
+               <objcontrato>Planos de promoção e comunicação da Passagem de Ano 2018</objcontrato>
+               <preco>10.000,00 €</preco>
+               <datapub>26-12-2018</datapub>
+               <adjudicatario>Braver Entertainment, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id112">
+               <objcontrato>ADRG/1033/2018 Contratação de prestação de serviços técnicos, na modalidade de...</objcontrato>
+               <preco>14.417,76 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>Jessica Rodrigues</adjudicatario>
+          </contrato>
+          <contrato id="id113">
+               <objcontrato>ADRG/1282/2018 Contratação de prestação de serviços na modalidade de avença...</objcontrato>
+               <preco>700,00 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>Bernardo Ferraz Marques</adjudicatario>
+          </contrato>
+          <contrato id="id114">
+               <objcontrato>Aquisição de serviços de animação Musical para o espetáculo de...</objcontrato>
+               <preco>28.000,00 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>Braver Entertainment, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id115">
+               <objcontrato>ADRG/1281/2018 Contratação de prestação de serviços na modalidade de avença...</objcontrato>
+               <preco>2.250,00 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>Marina Henriques Pedrosa</adjudicatario>
+          </contrato>
+          <contrato id="id116">
+               <objcontrato>ADRG/1575/2018 Contratação de prestação de serviços  na modalidade de avença...</objcontrato>
+               <preco>8.400,00 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>Nuno Alexandre Alves dos Santos</adjudicatario>
+          </contrato>
+          <contrato id="id117">
+               <objcontrato>Aquisição de serviços para implementação de um Centro Municipal de...</objcontrato>
+               <preco>32.035,00 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>YTRAVEL,LDA</adjudicatario>
+          </contrato>
+          <contrato id="id118">
+               <objcontrato>ADRG/936/2018 Contratação de prestação de serviços na modalidade de avença...</objcontrato>
+               <preco>10.800,00 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>Ana Claudia de Jesus Domingues</adjudicatario>
+          </contrato>
+          <contrato id="id119">
+               <objcontrato>ADRG/966/2018 Aquisição de serviços em regime de avença, na área...</objcontrato>
+               <preco>10.800,00 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>Arnaldo Manuel Uang Cheng Pimentel</adjudicatario>
+          </contrato>
+          <contrato id="id120">
+               <objcontrato>ADRG/962/2018 Aquisição de serviços em regime de avença, na área...</objcontrato>
+               <preco>5.400,00 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>Carolina Carvalho de Freitas</adjudicatario>
+          </contrato>
+          <contrato id="id121">
+               <objcontrato>CPG/56/2018 - Aquisição de estrado modular e respetivos acessórios</objcontrato>
+               <preco>35.340,00 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>Filpalcos, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id122">
+               <objcontrato>Contratação de serviços de reparação do AVAC do Centro de...</objcontrato>
+               <preco>14.318,37 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>FORTCLIMA-INSTALAÇÕES MECÂNICAS, LDA</adjudicatario>
+          </contrato>
+          <contrato id="id123">
+               <objcontrato>ADG/850/2018 - Espetáculo Musical com o artista "Herman José &amp;...</objcontrato>
+               <preco>10.000,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Folias e Troféus Unipessoal,Lda</adjudicatario>
+          </contrato>
+          <contrato id="id124">
+               <objcontrato>AD Nº 2126/18 - Contratação de Serviços, na área da...</objcontrato>
+               <preco>15.000,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>António Valente Marto</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Gois">
+          <nif>506613399</nif>
+          <contrato id="id125">
+               <objcontrato>Aquisição de Contentores de RSU</objcontrato>
+               <preco>4.505,82 €</preco>
+               <datapub>21-01-2019</datapub>
+               <adjudicatario>RESOPRE</adjudicatario>
+          </contrato>
+          <contrato id="id126">
+               <objcontrato>Aquisição de serviços para certificação legal, parecer e auditoria externa...</objcontrato>
+               <preco>19.200,00 €</preco>
+               <datapub>10-01-2019</datapub>
+               <adjudicatario>Marques Almeida, J. Nunes, V. Simões &amp; Associados SROC, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id127">
+               <objcontrato>Recuperação de passadiço em madeira</objcontrato>
+               <preco>18.355,00 €</preco>
+               <datapub>07-01-2019</datapub>
+               <adjudicatario>TOSCCA - EQUIPAMENTOS EM MADEIRA, LDA</adjudicatario>
+          </contrato>
+          <contrato id="id128">
+               <objcontrato>Aquisição de serviços para instalação da iluminação de Natal</objcontrato>
+               <preco>7.450,00 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>Mário Martins Carvalho - Discosom Multiserviços</adjudicatario>
+          </contrato>
+          <contrato id="id129">
+               <objcontrato>Recuperaçao de estradas e caminhos municipais afectados pelos incêndios de...</objcontrato>
+               <preco>123.221,48 €</preco>
+               <datapub>07-12-2018</datapub>
+               <adjudicatario>SOCITOP UNIPESSOAL, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id130">
+               <objcontrato>Aquisição de serviços para confeção, fornecimento e distribuição de refeições...</objcontrato>
+               <preco>12.211,94 €</preco>
+               <datapub>20-11-2018</datapub>
+               <adjudicatario>Santa Casa da Misericórdia de Góis</adjudicatario>
+          </contrato>
+          <contrato id="id131">
+               <objcontrato>Aquisição de serviços para confeção, fornecimento e distribuição de refeições...</objcontrato>
+               <preco>3.827,50 €</preco>
+               <datapub>20-11-2018</datapub>
+               <adjudicatario>Centro Paroquial de Solidariedade Social da Freguesia de Alvares</adjudicatario>
+          </contrato>
+          <contrato id="id132">
+               <objcontrato>Aquisição de gasóleo rodoviário em postos públicos de abastecimento</objcontrato>
+               <preco>132.756,00 €</preco>
+               <datapub>30-10-2018</datapub>
+               <adjudicatario>Alves Bandeira &amp; Cª, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id133">
+               <objcontrato>Aquisição de serviços para reforço das equipas para o BUPi...</objcontrato>
+               <preco>5.720,00 €</preco>
+               <datapub>25-10-2018</datapub>
+               <adjudicatario>Associação Florestal do Concelho de Góis</adjudicatario>
+          </contrato>
+          <contrato id="id134">
+               <objcontrato>Reposição de equipamentos de lazer afectados pelos Incêndios de Junho...</objcontrato>
+               <preco>43.301,20 €</preco>
+               <datapub>23-10-2018</datapub>
+               <adjudicatario>CELSO VENTURA - CONSTRUÇÕES - LDA</adjudicatario>
+          </contrato>
+          <contrato id="id135">
+               <objcontrato>Aquisição de tubo para distribuição de água para consumo doméstico</objcontrato>
+               <preco>16.185,74 €</preco>
+               <datapub>15-10-2018</datapub>
+               <adjudicatario>FOPIL-Fábrica Ovarense de Plásticos Industriais, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id136">
+               <objcontrato>Recuperação de trilhos pedestres</objcontrato>
+               <preco>43.301,20 €</preco>
+               <datapub>26-09-2018</datapub>
+               <adjudicatario>RESOPRE - SOCIEDADE REVENDEDORA DE APARELHOS DE PRECISÃO</adjudicatario>
+          </contrato>
+          <contrato id="id137">
+               <objcontrato>Aquisição e montagem de eletrobomba</objcontrato>
+               <preco>7.422,30 €</preco>
+               <datapub>13-09-2018</datapub>
+               <adjudicatario>José Manuel de Jesus Costa</adjudicatario>
+          </contrato>
+          <contrato id="id138">
+               <objcontrato>Recuperação de depósitos de abastecimento público de água afectados pelos...</objcontrato>
+               <preco>24.214,19 €</preco>
+               <datapub>29-08-2018</datapub>
+               <adjudicatario>Construções Nuno Tavares, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id139">
+               <objcontrato>Aquisição de serviços para aluguer e montagem de stands (tasquinhas)...</objcontrato>
+               <preco>6.635,00 €</preco>
+               <datapub>16-08-2018</datapub>
+               <adjudicatario>Jetstand - Montagem de Stands, Feiras e Exposições, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id140">
+               <objcontrato>Aquisição de serviços para implementação de fibra para ligação à...</objcontrato>
+               <preco>19.912,97 €</preco>
+               <datapub>16-08-2018</datapub>
+               <adjudicatario>MEO-Serviço de Comunicação e Multimédia, SA</adjudicatario>
+          </contrato>
+          <contrato id="id141">
+               <objcontrato>Elaboração de parecer jurídico no âmbito do diferendo que opõe...</objcontrato>
+               <preco>12.500,00 €</preco>
+               <datapub>16-08-2018</datapub>
+               <adjudicatario>Luís Miguel Simões Lucas Pires</adjudicatario>
+          </contrato>
+          <contrato id="id142">
+               <objcontrato>Aquisição de software e sua implementação</objcontrato>
+               <preco>11.040,00 €</preco>
+               <datapub>14-08-2018</datapub>
+               <adjudicatario>Associação de Informática da Região Centro (AIRC)</adjudicatario>
+          </contrato>
+          <contrato id="id143">
+               <objcontrato>Aquisição de serviços para realização de espetáculos musicais</objcontrato>
+               <preco>56.500,00 €</preco>
+               <datapub>14-08-2018</datapub>
+               <adjudicatario>Chuva de Sucessos-Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id144">
+               <objcontrato>Aquisição de serviços para implementação de passivos e infraestruturas de...</objcontrato>
+               <preco>16.468,89 €</preco>
+               <datapub>14-08-2018</datapub>
+               <adjudicatario>Espectro-Sistemas de Informação, SA</adjudicatario>
+          </contrato>
+          <contrato id="id145">
+               <objcontrato>Fornecimento e aplicação de guardas em madeira</objcontrato>
+               <preco>14.400,00 €</preco>
+               <datapub>07-08-2018</datapub>
+               <adjudicatario>TOSCCA - Equipamentos em Madeira, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id146">
+               <objcontrato>Execução de Açude no Rio Sotão</objcontrato>
+               <preco>54.988,07 €</preco>
+               <datapub>07-08-2018</datapub>
+               <adjudicatario>PENELATERRAPLANAGENS - DESATERROS E TERRAPLANAGENS, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id147">
+               <objcontrato>Fornecimento e Montagem de Grupos Electrobomba em depósitos de abastecimento...</objcontrato>
+               <preco>13.771,40 €</preco>
+               <datapub>07-08-2018</datapub>
+               <adjudicatario>José Manuel de Jesus Costa</adjudicatario>
+          </contrato>
+          <contrato id="id148">
+               <objcontrato>LAGAR EM CABREIRA</objcontrato>
+               <preco>14.810,00 €</preco>
+               <datapub>25-07-2018</datapub>
+               <adjudicatario>Hans Elias Kollande</adjudicatario>
+          </contrato>
+          <contrato id="id149">
+               <objcontrato>"REQUALIFICAÇÃO DA PRAÇA DA REPÚBLICA E RUAS ENVOLVENTES"</objcontrato>
+               <preco>443.656,97 €</preco>
+               <datapub>25-07-2018</datapub>
+               <adjudicatario>Carlos Gil - Obras Públicas, Construção Civil e Montagens Eléctricas, Lda.</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Lousa">
+          <nif>501121528</nif>
+          <contrato id="id150">
+               <objcontrato>EM 1224 – Vale Madeiros – execução de passeio e...</objcontrato>
+               <preco>7.822,79 €</preco>
+               <datapub>22-01-2019</datapub>
+               <adjudicatario>Isidoro Correia da Silva, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id151">
+               <objcontrato>Reforço de proteção hidrográfica de margens – Rio Arouce –...</objcontrato>
+               <preco>6.776,00 €</preco>
+               <datapub>22-01-2019</datapub>
+               <adjudicatario>Isidovias - Investimentos, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id152">
+               <objcontrato>Acção 8.4.1 - Estabilização de Emergência Pós-Incêndio - Lousã -...</objcontrato>
+               <preco>171.079,26 €</preco>
+               <datapub>22-01-2019</datapub>
+               <adjudicatario>Floponor, SA</adjudicatario>
+          </contrato>
+          <contrato id="id153">
+               <objcontrato>Reconstrução de muro de margem na Ribeira de São João...</objcontrato>
+               <preco>6.775,80 €</preco>
+               <datapub>21-01-2019</datapub>
+               <adjudicatario>Isidovias - Investimentos, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id154">
+               <objcontrato>Prestação de serviços de fotografia, tratamento de espólio fotográfico e...</objcontrato>
+               <preco>9.960,00 €</preco>
+               <datapub>17-01-2019</datapub>
+               <adjudicatario>Gonçalo Manuel de Jesus Martins</adjudicatario>
+          </contrato>
+          <contrato id="id155">
+               <objcontrato>Acção 8.1.4 - Estabilização de Emergência Pós- Incêndio - Coimbra-...</objcontrato>
+               <preco>16.118,00 €</preco>
+               <datapub>17-01-2019</datapub>
+               <adjudicatario>Floponor, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id156">
+               <objcontrato>Requalificação das Linhas de Água afectadas pelos Incêndios de 2017</objcontrato>
+               <preco>94.310,28 €</preco>
+               <datapub>17-01-2019</datapub>
+               <adjudicatario>Santos Neves &amp; António Correia, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id157">
+               <objcontrato>Serviços de controle de Higiene e Segurança Alimentar, aluguer de...</objcontrato>
+               <preco>19.850,00 €</preco>
+               <datapub>10-01-2019</datapub>
+               <adjudicatario>Glamour d`Xisto, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id158">
+               <objcontrato>Prestação de serviços de fotografia e outros serviços auxiliares durante...</objcontrato>
+               <preco>9.000,00 €</preco>
+               <datapub>07-01-2019</datapub>
+               <adjudicatario>Gonçalo Manuel de Jesus Martins</adjudicatario>
+          </contrato>
+          <contrato id="id159">
+               <objcontrato>Aquisição de um sistema de "smartphones", com interface dedicado, e...</objcontrato>
+               <preco>13.650,00 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>Realizasom-Produção Áudio, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id160">
+               <objcontrato>Aquisição contínua de cimento</objcontrato>
+               <preco>4.206,60 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Cosmatel Comércio Materiais de Construção, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id161">
+               <objcontrato>Prestação de serviços de limpeza mensal às instalações do pavilhão...</objcontrato>
+               <preco>2.964,00 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Atos Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id162">
+               <objcontrato>Aluguer de tendas e stands, no âmbito da Feira do...</objcontrato>
+               <preco>19.950,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Ficheiro Livre, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id163">
+               <objcontrato>Aquisição de software de gestão de ginásios e piscinas</objcontrato>
+               <preco>6.750,00 €</preco>
+               <datapub>11-12-2018</datapub>
+               <adjudicatario>Projecttime - Distribuição de Equipamentos Electronicos, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id164">
+               <objcontrato>Aluguer de equipamento de iluminação alusiva à época natalícia, incluindo...</objcontrato>
+               <preco>6.250,00 €</preco>
+               <datapub>06-12-2018</datapub>
+               <adjudicatario>SOM IDEAL- SONORIZAÇÃO E ILUMINAÇÕES,LDª</adjudicatario>
+          </contrato>
+          <contrato id="id165">
+               <objcontrato>Prestação de serviços para a elaboração do projeto de luminotecnia...</objcontrato>
+               <preco>15.100,00 €</preco>
+               <datapub>26-11-2018</datapub>
+               <adjudicatario>Ilídio Bento Sobral Unipessoal, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id166">
+               <objcontrato>Prestação de serviços para a elaboração do projeto de design...</objcontrato>
+               <preco>19.800,00 €</preco>
+               <datapub>26-11-2018</datapub>
+               <adjudicatario>Sérgio Rafael Tomé Neves Eliseu</adjudicatario>
+          </contrato>
+          <contrato id="id167">
+               <objcontrato>Fornecimento contínuo de material de primeiros socorros para o serviço...</objcontrato>
+               <preco>4.500,00 €</preco>
+               <datapub>20-11-2018</datapub>
+               <adjudicatario>Hospivida – Produtos Médicos e Hospitalares</adjudicatario>
+          </contrato>
+          <contrato id="id168">
+               <objcontrato>Prestação de serviços de manutenção das aplicações do ERP AIRC,...</objcontrato>
+               <preco>13.408,00 €</preco>
+               <datapub>20-11-2018</datapub>
+               <adjudicatario>Associação de Informática da Região Centro (AIRC)</adjudicatario>
+          </contrato>
+          <contrato id="id169">
+               <objcontrato>Prestação de serviços para a elaboração do projeto de remusealização...</objcontrato>
+               <preco>70.100,00 €</preco>
+               <datapub>08-11-2018</datapub>
+               <adjudicatario>Francisco M Providencia Designer, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id170">
+               <objcontrato>Aluguer de servidor de voz para o Corpo de Bombeiros...</objcontrato>
+               <preco>8.843,40 €</preco>
+               <datapub>08-11-2018</datapub>
+               <adjudicatario>MEO - Serviços de Comunicações e Multimédia, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id171">
+               <objcontrato>Prestação de serviços para a elaboração da Plano Intermunicipal de...</objcontrato>
+               <preco>16.500,00 €</preco>
+               <datapub>08-11-2018</datapub>
+               <adjudicatario>Vânia Patrícia Rodrigues Moreira</adjudicatario>
+          </contrato>
+          <contrato id="id172">
+               <objcontrato>Prestação de serviços de apoio técnico especializado na área da...</objcontrato>
+               <preco>7.200,00 €</preco>
+               <datapub>06-11-2018</datapub>
+               <adjudicatario>João Manuel Simões Dias</adjudicatario>
+          </contrato>
+          <contrato id="id173">
+               <objcontrato>Contratação de serviços para o fornecimento diário de refeições a...</objcontrato>
+               <preco>0,00 €</preco>
+               <datapub>12-10-2018</datapub>
+               <adjudicatario />
+          </contrato>
+          <contrato id="id174">
+               <objcontrato>Aquisição de central de bombagem</objcontrato>
+               <preco>7.235,77 €</preco>
+               <datapub>08-10-2018</datapub>
+               <adjudicatario>Sondagens Luís Neves, Unipessoal, Lda</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Mealhada">
+          <nif>506792382</nif>
+          <contrato id="id175">
+               <objcontrato>Reparação de Pavimentos em Várzeas</objcontrato>
+               <preco>11.140,01 €</preco>
+               <datapub>22-01-2019</datapub>
+               <adjudicatario>Civibérica - Obras Civis, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id176">
+               <objcontrato>Prestação de serviços, na modalidade de avença, de prevenção, proteção...</objcontrato>
+               <preco>4.080,00 €</preco>
+               <datapub>18-01-2019</datapub>
+               <adjudicatario>Fábio Samuel Coutinho Mendes Araújo</adjudicatario>
+          </contrato>
+          <contrato id="id177">
+               <objcontrato>Prestação de serviços, na modalidade de avença, de prevenção, proteção...</objcontrato>
+               <preco>4.080,00 €</preco>
+               <datapub>17-01-2019</datapub>
+               <adjudicatario>Mário Laranjeira Martins</adjudicatario>
+          </contrato>
+          <contrato id="id178">
+               <objcontrato>Prestação de serviços, na modalidade de avença, de prevenção, proteção...</objcontrato>
+               <preco>4.080,00 €</preco>
+               <datapub>16-01-2019</datapub>
+               <adjudicatario>Fernando Ferreira Moura</adjudicatario>
+          </contrato>
+          <contrato id="id179">
+               <objcontrato>Prestação de serviços, na modalidade de avença, de prevenção, proteção...</objcontrato>
+               <preco>4.080,00 €</preco>
+               <datapub>16-01-2019</datapub>
+               <adjudicatario>Hélder Manuel Coelho Carvalheiro</adjudicatario>
+          </contrato>
+          <contrato id="id180">
+               <objcontrato>Prestação de serviços, na modalidade de avença, de prevenção, proteção...</objcontrato>
+               <preco>4.080,00 €</preco>
+               <datapub>16-01-2019</datapub>
+               <adjudicatario>Manuel António Abreu Nogueira</adjudicatario>
+          </contrato>
+          <contrato id="id181">
+               <objcontrato>Aquisição de serviços para manutenção e atualização das várias aplicações...</objcontrato>
+               <preco>21.830,55 €</preco>
+               <datapub>15-01-2019</datapub>
+               <adjudicatario>AIRC - Associação de Informática da Região Centro</adjudicatario>
+          </contrato>
+          <contrato id="id182">
+               <objcontrato>Aquisição de bens – licenciamento de software e extensão de...</objcontrato>
+               <preco>6.065,00 €</preco>
+               <datapub>02-01-2019</datapub>
+               <adjudicatario>LIBWARE - TECNOLOGIAS DE INFORMAÇÃO E DOCUMENTAÇÃO, LDA</adjudicatario>
+          </contrato>
+          <contrato id="id183">
+               <objcontrato>Aquisição de Serviços para a Conceção de Jogos sobre a...</objcontrato>
+               <preco>5.425,00 €</preco>
+               <datapub>12-12-2018</datapub>
+               <adjudicatario>Palavras Legadas - Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id184">
+               <objcontrato>Prestação de serviços de assessoria estratégica na elaboração de plano...</objcontrato>
+               <preco>12.500,00 €</preco>
+               <datapub>12-12-2018</datapub>
+               <adjudicatario>ACEAAP – Agência de Competências e Estudos Avançados para a Administração Pública, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id185">
+               <objcontrato>Aquisição de Serviços de Fiscalização e Assistência Técnica das Atividades...</objcontrato>
+               <preco>29.700,00 €</preco>
+               <datapub>11-12-2018</datapub>
+               <adjudicatario>KVV - CONSULTORIA, UNIPESSOAL, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id186">
+               <objcontrato>Prestação de serviços, na modalidade de avença, de assistente operacional,...</objcontrato>
+               <preco>7.200,00 €</preco>
+               <datapub>11-12-2018</datapub>
+               <adjudicatario>Ana Filipa Semedo Gomes</adjudicatario>
+          </contrato>
+          <contrato id="id187">
+               <objcontrato>Aquisição de Bens para Implementação de um Centro de Intervenção...</objcontrato>
+               <preco>22.450,03 €</preco>
+               <datapub>30-11-2018</datapub>
+               <adjudicatario>Ana Lúcia Frutuoso, Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id188">
+               <objcontrato>Aquisição de serviços de decoração e iluminação de Natal, nas...</objcontrato>
+               <preco>7.500,00 €</preco>
+               <datapub>21-11-2018</datapub>
+               <adjudicatario>Margarida Mónica Ventura Sequeira de Almeida</adjudicatario>
+          </contrato>
+          <contrato id="id189">
+               <objcontrato>Aquisição de Serviços de Assessoria à Equipa de Fiscalização da...</objcontrato>
+               <preco>36.000,00 €</preco>
+               <datapub>21-11-2018</datapub>
+               <adjudicatario>Search Mission, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id190">
+               <objcontrato>Prestação de serviços, na modalidade de avença, de medicina veterinária...</objcontrato>
+               <preco>2.643,75 €</preco>
+               <datapub>20-11-2018</datapub>
+               <adjudicatario>Pedro Manuel Oliveira Almeida</adjudicatario>
+          </contrato>
+          <contrato id="id191">
+               <objcontrato>Aquisição de serviços de remoção, encaminhamento e recolha de lamas,...</objcontrato>
+               <preco>74.600,50 €</preco>
+               <datapub>20-11-2018</datapub>
+               <adjudicatario>Construrent, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id192">
+               <objcontrato>Reconstrução de Muro de Suporte de Terras da Piscina do...</objcontrato>
+               <preco>29.957,02 €</preco>
+               <datapub>08-11-2018</datapub>
+               <adjudicatario>Prioridade - Construção de Vias de Comunicação, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id193">
+               <objcontrato>"Aquisição de serviços de limpeza e desobstrução da Mata Nacional...</objcontrato>
+               <preco>194.100,00 €</preco>
+               <datapub>08-11-2018</datapub>
+               <adjudicatario>Bioflorestal, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id194">
+               <objcontrato>Aquisição de serviços de cobrança através de sistema multibanco e...</objcontrato>
+               <preco>39.045,60 €</preco>
+               <datapub>30-10-2018</datapub>
+               <adjudicatario>BANCO SANTANDER TOTTA, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id195">
+               <objcontrato>Prestação de serviços, na modalidade de avença, de nadador salvador,...</objcontrato>
+               <preco>10.800,00 €</preco>
+               <datapub>29-10-2018</datapub>
+               <adjudicatario>Fábio Alexandre da Cruz Batista</adjudicatario>
+          </contrato>
+          <contrato id="id196">
+               <objcontrato>Locação de Espaço na BTL – Bolsa de Turismo de...</objcontrato>
+               <preco>8.524,96 €</preco>
+               <datapub>12-10-2018</datapub>
+               <adjudicatario>Lisboa Feiras, Congressos e Eventos - FCE / Associação Empresarial</adjudicatario>
+          </contrato>
+          <contrato id="id197">
+               <objcontrato>Aquisição de serviços de comunicações móveis</objcontrato>
+               <preco>10.980,00 €</preco>
+               <datapub>01-10-2018</datapub>
+               <adjudicatario>MEO - Serviços de Comunicações e Multimédia, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id198">
+               <objcontrato>Prestação de serviços, na modalidade de avença, de animação sociocultural,...</objcontrato>
+               <preco>9.000,00 €</preco>
+               <datapub>27-09-2018</datapub>
+               <adjudicatario>Ana Lúcia Duarte Mendes</adjudicatario>
+          </contrato>
+          <contrato id="id199">
+               <objcontrato>Aquisição de serviços de higienização e limpeza de diversas instalações...</objcontrato>
+               <preco>73.125,73 €</preco>
+               <datapub>26-09-2018</datapub>
+               <adjudicatario>SERVILIMPE LIMPEZAS TÉCNICAS MECANIZADAS, SA</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Mira">
+          <nif>506724530</nif>
+          <contrato id="id200">
+               <objcontrato>Aquisição de serviços elaboração dos projetos de execução da Reabilitação...</objcontrato>
+               <preco>19.850,00 €</preco>
+               <datapub>22-01-2019</datapub>
+               <adjudicatario>IteCons - Instituto de Investigação e Desenvolvimento Tecnológico para a Construção, Energia, Ambiente e Sustentabilidade</adjudicatario>
+          </contrato>
+          <contrato id="id201">
+               <objcontrato>Prestação de Serviços, na Modalidade de Tarefa, para constituição de...</objcontrato>
+               <preco>18.700,00 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Helena Isabel Assunção Azeiteiro</adjudicatario>
+          </contrato>
+          <contrato id="id202">
+               <objcontrato>Aquisição de serviços de Conceção, Organização e Gestão do Programa...</objcontrato>
+               <preco>44.080,00 €</preco>
+               <datapub>27-12-2018</datapub>
+               <adjudicatario>MALPEVENT - CONSULTADORIA E PRODUÇÃO DE EVENTOS LDA</adjudicatario>
+          </contrato>
+          <contrato id="id203">
+               <objcontrato>Aquisição de serviços de contratação de Banda Os Quatro e...</objcontrato>
+               <preco>9.000,00 €</preco>
+               <datapub>27-12-2018</datapub>
+               <adjudicatario>Primeira Linha, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id204">
+               <objcontrato>Aquisição de serviços de contratação de artista C 4 PEDRO...</objcontrato>
+               <preco>35.000,00 €</preco>
+               <datapub>27-12-2018</datapub>
+               <adjudicatario>Dose de Sucesso, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id205">
+               <objcontrato>Aquisição de serviços de recolha e transporte de resíduos urbanos,...</objcontrato>
+               <preco>8.800,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>SUMA - SERVIÇOS URBANOS E MEIO AMBIENTE S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id206">
+               <objcontrato>Aquisição de Serviços, na modalidade de tarefa para apoio ao...</objcontrato>
+               <preco>4.840,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Bruno Miguel Mesquita</adjudicatario>
+          </contrato>
+          <contrato id="id207">
+               <objcontrato>Aquisição de Serviços, na modalidade de tarefa para apoio ao...</objcontrato>
+               <preco>4.387,50 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Renato Emanuel Marques Zagalo</adjudicatario>
+          </contrato>
+          <contrato id="id208">
+               <objcontrato>Aquisição de Serviços, na modalidade de tarefa para apoio ao...</objcontrato>
+               <preco>7.625,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Nelson da Silva Auxiliar</adjudicatario>
+          </contrato>
+          <contrato id="id209">
+               <objcontrato>Aquisição de Serviços, na modalidade de tarefa para apoio ao...</objcontrato>
+               <preco>3.445,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>João Pedro da Silva Almeida</adjudicatario>
+          </contrato>
+          <contrato id="id210">
+               <objcontrato>Aquisição de Material Diverso</objcontrato>
+               <preco>9.458,99 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>António Nogueira Lourenço</adjudicatario>
+          </contrato>
+          <contrato id="id211">
+               <objcontrato>Aquisição de Serviços, na modalidade de tarefa para apoio ao...</objcontrato>
+               <preco>4.100,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Renato Miguel Gonçalves dos Santos</adjudicatario>
+          </contrato>
+          <contrato id="id212">
+               <objcontrato>Aquisição de Serviços, na modalidade de tarefa para apoio ao...</objcontrato>
+               <preco>5.675,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Pedro Miguel Martins Gonçalves</adjudicatario>
+          </contrato>
+          <contrato id="id213">
+               <objcontrato>Aquisição de Serviços, na modalidade de tarefa para apoio ao...</objcontrato>
+               <preco>2.496,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Nuno Miguel Cruz Gordo</adjudicatario>
+          </contrato>
+          <contrato id="id214">
+               <objcontrato>Aquisição de Serviços em Regime de Tarefa para apoio ao...</objcontrato>
+               <preco>4.400,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Luís André Ferreira de Oliveira</adjudicatario>
+          </contrato>
+          <contrato id="id215">
+               <objcontrato>Aquisição de Serviços, na modalidade de tarefa para apoio ao...</objcontrato>
+               <preco>7.625,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>José António Ribeiro Santo</adjudicatario>
+          </contrato>
+          <contrato id="id216">
+               <objcontrato>Fornecimento e montagem de painéis solares para aquecimento de águas...</objcontrato>
+               <preco>18.880,00 €</preco>
+               <datapub>17-12-2018</datapub>
+               <adjudicatario>Nunes Vergas &amp; Filhos, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id217">
+               <objcontrato>Aquisição de Serviços em Regime de Tarefa para Apoio ao...</objcontrato>
+               <preco>4.804,80 €</preco>
+               <datapub>07-12-2018</datapub>
+               <adjudicatario>João Carlos de Jesus Gil</adjudicatario>
+          </contrato>
+          <contrato id="id218">
+               <objcontrato>Aquisição de Serviços  para Trabalhos Operacionais na área de apoio...</objcontrato>
+               <preco>18.819,00 €</preco>
+               <datapub>28-11-2018</datapub>
+               <adjudicatario>Sinal Mais - Facility Services, SA</adjudicatario>
+          </contrato>
+          <contrato id="id219">
+               <objcontrato>Aquisição de Serviços de Recolha e Transporte de Resíduos Urbanos...</objcontrato>
+               <preco>40.000,00 €</preco>
+               <datapub>21-11-2018</datapub>
+               <adjudicatario>Suma Serviços Urbanos e Meio Ambiente, SA</adjudicatario>
+          </contrato>
+          <contrato id="id220">
+               <objcontrato>Requalificação Acessível do Palheiro da Praia de Mira - Posto...</objcontrato>
+               <preco>105.467,90 €</preco>
+               <datapub>19-11-2018</datapub>
+               <adjudicatario>INESARO, LDA</adjudicatario>
+          </contrato>
+          <contrato id="id221">
+               <objcontrato>Pavimentação da Rua Cabeças Pintas e passadeiras elevadas na Rua...</objcontrato>
+               <preco>42.322,65 €</preco>
+               <datapub>19-11-2018</datapub>
+               <adjudicatario>Omnimira Construções Lda</adjudicatario>
+          </contrato>
+          <contrato id="id222">
+               <objcontrato>Execução de passeios em Cabeço Redondo Pequeno na localidade de...</objcontrato>
+               <preco>20.700,00 €</preco>
+               <datapub>15-11-2018</datapub>
+               <adjudicatario>António Carlos Rocha - Construção e Obras Publicas, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id223">
+               <objcontrato>AQUISIÇÃO DE SERVIÇOS RESTABELECIMENTO DA FLORESTA POR AGENTES BIÓTICOS E...</objcontrato>
+               <preco>189.070,30 €</preco>
+               <datapub>05-11-2018</datapub>
+               <adjudicatario>Ecorede - Engenharia e Serviços, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id224">
+               <objcontrato>Aquisição de serviços em modalidade/tarefa</objcontrato>
+               <preco>4.804,80 €</preco>
+               <datapub>26-10-2018</datapub>
+               <adjudicatario>José Júlio de Miranda Bica</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="MirandaDoCorvo">
+          <nif>506624200</nif>
+          <contrato id="id225">
+               <objcontrato>Prestação de serviços para celebração e manutenção de apólices de...</objcontrato>
+               <preco>24.424,60 €</preco>
+               <datapub>23-01-2019</datapub>
+               <adjudicatario>SEGURADORAS UNIDAS, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id226">
+               <objcontrato>Aquisição de serviços para celebração e manutenção de apólices de...</objcontrato>
+               <preco>15.325,00 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Seguradoras Unidas, SA</adjudicatario>
+          </contrato>
+          <contrato id="id227">
+               <objcontrato>Trabalhos de Reabilitação no Açude do Rio Ceira, na povoação...</objcontrato>
+               <preco>40.220,95 €</preco>
+               <datapub>16-11-2018</datapub>
+               <adjudicatario>Isidoro Correia da Silva, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id228">
+               <objcontrato>Lavagem mecânica, desodorização e desengorduramento, desinfeção interior e exterior, dos...</objcontrato>
+               <preco>7.740,00 €</preco>
+               <datapub>08-11-2018</datapub>
+               <adjudicatario>RVU - Recolha, Transporte e Valorização de Resíduos, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id229">
+               <objcontrato>Locação, aluguer e montagem de stands para a Feira da...</objcontrato>
+               <preco>6.681,00 €</preco>
+               <datapub>30-10-2018</datapub>
+               <adjudicatario>Expomontagem - Criação e Montagem de Stands Lda</adjudicatario>
+          </contrato>
+          <contrato id="id230">
+               <objcontrato>Aquisição de combustíveis rodoviários ao abrigo do Acordo Quadro AQ-05-2017...</objcontrato>
+               <preco>127.825,00 €</preco>
+               <datapub>18-10-2018</datapub>
+               <adjudicatario>Lubrifuel - Combustíveis e Lubrificantes Lda</adjudicatario>
+          </contrato>
+          <contrato id="id231">
+               <objcontrato>Aquisição de serviços de alteração / reparação do interior da...</objcontrato>
+               <preco>5.196,80 €</preco>
+               <datapub>15-10-2018</datapub>
+               <adjudicatario>Arnaut &amp; Filhos Lda</adjudicatario>
+          </contrato>
+          <contrato id="id232">
+               <objcontrato>Serviços de animação da Feira Medieval; inclui oficinas de formação,...</objcontrato>
+               <preco>9.300,00 €</preco>
+               <datapub>15-10-2018</datapub>
+               <adjudicatario>Viv'arte - Laboratório Nacional de Recriação Histórica, Associação Privada</adjudicatario>
+          </contrato>
+          <contrato id="id233">
+               <objcontrato>Serviços de Técnico Superior de Psicologia no âmbito do Plano...</objcontrato>
+               <preco>16.492,03 €</preco>
+               <datapub>15-10-2018</datapub>
+               <adjudicatario>Marcela Rute Fontes Lopes</adjudicatario>
+          </contrato>
+          <contrato id="id234">
+               <objcontrato>Serviços de Ação Social no âmbito do Plano intermunicipal de...</objcontrato>
+               <preco>17.462,14 €</preco>
+               <datapub>11-10-2018</datapub>
+               <adjudicatario>Ana Sofia Ferreira Queirós</adjudicatario>
+          </contrato>
+          <contrato id="id235">
+               <objcontrato>Serviços de Ciências da Educação no âmbito do Plano lntermunicipal...</objcontrato>
+               <preco>17.462,14 €</preco>
+               <datapub>11-10-2018</datapub>
+               <adjudicatario>Andrea Melanie Magalhães Sequeira</adjudicatario>
+          </contrato>
+          <contrato id="id236">
+               <objcontrato>Serviços de Terapia da Fala no âmbito do Plano lntermunicipal...</objcontrato>
+               <preco>17.462,14 €</preco>
+               <datapub>11-10-2018</datapub>
+               <adjudicatario>Andreia Margarida Baeta Rodrigues</adjudicatario>
+          </contrato>
+          <contrato id="id237">
+               <objcontrato>Serviços de Sociologia no âmbito do Plano lntermunicipal de Prevenção...</objcontrato>
+               <preco>17.462,14 €</preco>
+               <datapub>11-10-2018</datapub>
+               <adjudicatario>Adriana Manuela Gonçalves Fernandes Amaral</adjudicatario>
+          </contrato>
+          <contrato id="id238">
+               <objcontrato>Aquisição de serviços para a instalação de redes de Defesa...</objcontrato>
+               <preco>120.400,00 €</preco>
+               <datapub>10-10-2018</datapub>
+               <adjudicatario>Vibeiras - Sociedade Comercial de Plantas SA</adjudicatario>
+          </contrato>
+          <contrato id="id239">
+               <objcontrato>Aquisição de viagens de avião para as comemorações do 20º...</objcontrato>
+               <preco>7.715,00 €</preco>
+               <datapub>09-10-2018</datapub>
+               <adjudicatario>Biotravel, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id240">
+               <objcontrato>Fornecimento de refeições escolares ao abrigo do AQ da CIM-RC,...</objcontrato>
+               <preco>159.914,75 €</preco>
+               <datapub>24-09-2018</datapub>
+               <adjudicatario>ICA</adjudicatario>
+          </contrato>
+          <contrato id="id241">
+               <objcontrato>Desobstrução de coletores no concelho e limpeza da fossa de...</objcontrato>
+               <preco>13.680,00 €</preco>
+               <datapub>11-09-2018</datapub>
+               <adjudicatario>Hidromaster – Conservação de Superfícies, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id242">
+               <objcontrato>Reparação de avaria no sistema de compactação da viatura Mercedes,...</objcontrato>
+               <preco>7.958,50 €</preco>
+               <datapub>05-09-2018</datapub>
+               <adjudicatario>Basrio Metalomecânica e Equipamentos Rodoviários SA</adjudicatario>
+          </contrato>
+          <contrato id="id243">
+               <objcontrato>Fornecimento por lotes de material de ferro fundido, material de...</objcontrato>
+               <preco>8.268,34 €</preco>
+               <datapub>01-08-2018</datapub>
+               <adjudicatario>Humberto Poças, SA</adjudicatario>
+          </contrato>
+          <contrato id="id244">
+               <objcontrato>Fornecimento por lotes de material de ferro fundido, material de...</objcontrato>
+               <preco>22.315,85 €</preco>
+               <datapub>01-08-2018</datapub>
+               <adjudicatario>Mário Gonçalves Lda</adjudicatario>
+          </contrato>
+          <contrato id="id245">
+               <objcontrato>Elaboração de projecto da Fase II do Centro de Formação...</objcontrato>
+               <preco>15.350,00 €</preco>
+               <datapub>27-07-2018</datapub>
+               <adjudicatario>Atelier do Corvo - Arquitectura e Urbanismo, lda</adjudicatario>
+          </contrato>
+          <contrato id="id246">
+               <objcontrato>Serviços de terraplanagem e movimentação de terras com operador qualificado</objcontrato>
+               <preco>18.000,00 €</preco>
+               <datapub>26-07-2018</datapub>
+               <adjudicatario>Dueceira - Associação de Desenvolvimento do Ceira e Dueça</adjudicatario>
+          </contrato>
+          <contrato id="id247">
+               <objcontrato>Limpeza de bermas e valetas em estradas e caminhos municipais</objcontrato>
+               <preco>16.330,00 €</preco>
+               <datapub>13-07-2018</datapub>
+               <adjudicatario>Fabriblocos Lda</adjudicatario>
+          </contrato>
+          <contrato id="id248">
+               <objcontrato>Aquisição de viatura pesada de passageiros - miniautocarro</objcontrato>
+               <preco>98.000,00 €</preco>
+               <datapub>29-06-2018</datapub>
+               <adjudicatario>CaetanoBus - Fabricação de Carrocarias, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id249">
+               <objcontrato>Realização da empreitada “Medidas de Acalmia de Tráfego em Diversos...</objcontrato>
+               <preco>47.419,73 €</preco>
+               <datapub>06-06-2018</datapub>
+               <adjudicatario>CONTEC - Construção e Engenharia, S.A.</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="MontemorOVelho">
+          <nif>501272976</nif>
+          <contrato id="id250">
+               <objcontrato>Aquisição de 40 conjuntos de mesa e 2 bancos</objcontrato>
+               <preco>12.000,00 €</preco>
+               <datapub>17-01-2019</datapub>
+               <adjudicatario>MÓVEIS E CARPINTARIA ANTÓNIO VEIGA MONTEIRO, LDA.,</adjudicatario>
+          </contrato>
+          <contrato id="id251">
+               <objcontrato>“Aquisição de Serviços de Conceção e Gestão da Imagem, Comunicação...</objcontrato>
+               <preco>18.465,25 €</preco>
+               <datapub>15-01-2019</datapub>
+               <adjudicatario>BRAVER VALUE, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id252">
+               <objcontrato>Prestação de serviços para elaboração do projeto de ampliação e...</objcontrato>
+               <preco>18.500,00 €</preco>
+               <datapub>11-01-2019</datapub>
+               <adjudicatario>CTGA – CENTRO TECNOLÓGICO DE GESTÃO AMBIENTAL, LDA.,</adjudicatario>
+          </contrato>
+          <contrato id="id253">
+               <objcontrato>CREACM União de Freguesias de Montemor-o-Velho e Gatões (prolongamento de...</objcontrato>
+               <preco>24.900,34 €</preco>
+               <datapub>09-01-2019</datapub>
+               <adjudicatario>HELENOS, S.A.,</adjudicatario>
+          </contrato>
+          <contrato id="id254">
+               <objcontrato>Fornecimento de Refeições Escolares (lanches) às crianças do Jardim de...</objcontrato>
+               <preco>15.750,00 €</preco>
+               <datapub>09-01-2019</datapub>
+               <adjudicatario>SANTA CASA DA MISERICÓRDIA DA VILA DE PEREIRA</adjudicatario>
+          </contrato>
+          <contrato id="id255">
+               <objcontrato>CREACM União de Freguesias de Montemor-o-Velho e Gatões (prolongamento de...</objcontrato>
+               <preco>24.900,34 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>HELENOS, S.A.,</adjudicatario>
+          </contrato>
+          <contrato id="id256">
+               <objcontrato>realização da empreitada “Sinalização – Semáforos – Reparação de danos...</objcontrato>
+               <preco>105.565,00 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>SOLTRÁFEGO – SOLUÇÕES DE TRÂNSITO, ESTACIONAMENTO E COMUNICAÇÕES, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id257">
+               <objcontrato>“Prestação de Serviços de Vigilância Humana para o Edifício Paços...</objcontrato>
+               <preco>69.701,86 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>2045 - empresa de Segurança, S.A</adjudicatario>
+          </contrato>
+          <contrato id="id258">
+               <objcontrato>“Aquisição de Serviços de Higiene e Limpeza Urbana no Concelho...</objcontrato>
+               <preco>96.180,00 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>SUMA – SERVIÇOS URBANOS E MEIO AMBIENTE, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id259">
+               <objcontrato>“Prestação de Serviços para Manutenção do Serviço de Recolha e...</objcontrato>
+               <preco>94.755,00 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>C.T.G.A. – CENTRO TECNOLÓGICO DE GESTÃO AMBIENTAL, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id260">
+               <objcontrato>realização da empreitada de “Recuperação e Beneficiação do Parque Habitacional...</objcontrato>
+               <preco>33.027,60 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>CONSTRUÇÕES MALHÃO &amp; SANTOS, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id261">
+               <objcontrato>realização da empreitada de “Centro de Alto Rendimento - Edifício...</objcontrato>
+               <preco>11.437,60 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>L. P. ASCENSO – UNIPESSOAL, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id262">
+               <objcontrato>“Aquisição de Serviços de Assistentes de Produção para Castelo Mágico”</objcontrato>
+               <preco>9.180,00 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>BRAVER SERVIÇOS PARTILHADOS, UNIPESSOAL, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id263">
+               <objcontrato>“Aquisição de Serviço de Funpark de Natal para Castelo Mágico”</objcontrato>
+               <preco>15.000,00 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>URBANFUN – EVENTOS, TURISMO E COMUNICAÇÃO, UNIPESSOAL, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id264">
+               <objcontrato>Galeria Municipal - Centro Interpretativo do Concelho (adaptação de Edifício)</objcontrato>
+               <preco>16.244,48 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>ÂNGULAROUND, LDA.,</adjudicatario>
+          </contrato>
+          <contrato id="id265">
+               <objcontrato>Prestação de serviços para elaboração de projeto de ampliação e...</objcontrato>
+               <preco>18.500,00 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>CTGA – CENTRO TECNOLÓGICO DE GESTÃO AMBIENTAL, LDA.,</adjudicatario>
+          </contrato>
+          <contrato id="id266">
+               <objcontrato>Fornecimento de Refeições Escolares (almoços e lanches) nas Escolas Básicas...</objcontrato>
+               <preco>45.857,79 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>uniself - Sociedade de Restaurantes Públicos e Privados, S.A</adjudicatario>
+          </contrato>
+          <contrato id="id267">
+               <objcontrato>Feira do Ano 2018/Festas Concelhias de Montemor-o-Velho - serviços de...</objcontrato>
+               <preco>15.994,08 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>2045 – Empresa de Segurança, S.A.,</adjudicatario>
+          </contrato>
+          <contrato id="id268">
+               <objcontrato>Aquisição de fornecimento de refeições escolares (almoços e lanches) nas...</objcontrato>
+               <preco>63.724,00 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>CENTRO SOCIAL E PAROQUIAL DE MEÃS DO CAMPO</adjudicatario>
+          </contrato>
+          <contrato id="id269">
+               <objcontrato>Aquisição de plataforma de recolha, tratamento e gestão de dados...</objcontrato>
+               <preco>18.343,00 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>ENSOORIGINS, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id270">
+               <objcontrato>Centro Interpretativo do Concelho de Montemor-o-Velho</objcontrato>
+               <preco>147.690,00 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>ENSOORIGINS, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id271">
+               <objcontrato>Fornecimento de refeições escolares (almoços e lanches), e pessoal de...</objcontrato>
+               <preco>40.329,00 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>CENTRO SOCIAL PAROQUIAL DA CARAPINHEIRA</adjudicatario>
+          </contrato>
+          <contrato id="id272">
+               <objcontrato>Aquisição de serviços para Transporte Coletivo de Crianças para a...</objcontrato>
+               <preco>40.129,32 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>CENTRO HUMANITÁRIO DO BAIXO MONDEGO DA CRUZ VERMELHA DE PEREIRA</adjudicatario>
+          </contrato>
+          <contrato id="id273">
+               <objcontrato>Castelo Mágico - Aquisição de serviços de contratação de campanha...</objcontrato>
+               <preco>42.734,75 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>FASCINATING CIRCLE, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id274">
+               <objcontrato>Contratação de animação de Natal</objcontrato>
+               <preco>40.000,00 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>COLECTIVIDADE CULTURAL E RECREATIVA DE SANTA CATARINA</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Mortágua">
+          <nif>506855368</nif>
+          <contrato id="id275">
+               <objcontrato>Avenida Infante D. Henrique (Vale de Açores) - Arranjo urbanístico...</objcontrato>
+               <preco>19.575,25 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Edibest - Engenharia e Construção, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id276">
+               <objcontrato>Aquisição do cabaz de Natal para 2018</objcontrato>
+               <preco>8.365,64 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Catro - Supermercados, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id277">
+               <objcontrato>Impermeabilização de zonas de cobertura da EB 2/3</objcontrato>
+               <preco>12.475,80 €</preco>
+               <datapub>18-12-2018</datapub>
+               <adjudicatario>Prorevi - Pinturas e Revestimentos Lda</adjudicatario>
+          </contrato>
+          <contrato id="id278">
+               <objcontrato>Abertura de poço para captação de água na Aveleira</objcontrato>
+               <preco>1.367,50 €</preco>
+               <datapub>17-12-2018</datapub>
+               <adjudicatario>ACA - Terraplanagens, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id279">
+               <objcontrato>Execução de abrigo para animais "assínios"</objcontrato>
+               <preco>9.050,00 €</preco>
+               <datapub>14-12-2018</datapub>
+               <adjudicatario>José Carlos Afonso Ramos – Serralharia JR</adjudicatario>
+          </contrato>
+          <contrato id="id280">
+               <objcontrato>Aquisição de bomba de calor para a EB 2/3 de...</objcontrato>
+               <preco>24.900,00 €</preco>
+               <datapub>13-12-2018</datapub>
+               <adjudicatario>Sondamar - Furos Artesianos, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id281">
+               <objcontrato>Fornecimento do almoço de Natal aos funcionários da autarquia</objcontrato>
+               <preco>7.292,80 €</preco>
+               <datapub>10-12-2018</datapub>
+               <adjudicatario>Empreendimentos Turísticos Monte Belo, Soc. de Turismo e Recreio, S.A</adjudicatario>
+          </contrato>
+          <contrato id="id282">
+               <objcontrato>Ligação do PT da nova unidade da empresa BASI à...</objcontrato>
+               <preco>3.400,00 €</preco>
+               <datapub>10-12-2018</datapub>
+               <adjudicatario>Barata &amp; Marcelino- Engenharia Energética, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id283">
+               <objcontrato>Ligação ao Pavilhão de Mecatrónica na EB 2,3</objcontrato>
+               <preco>6.247,01 €</preco>
+               <datapub>30-11-2018</datapub>
+               <adjudicatario>Socitop - Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id284">
+               <objcontrato>Calcetamento do acesso à capela dos Palheiros de Baixo</objcontrato>
+               <preco>1.878,46 €</preco>
+               <datapub>29-11-2018</datapub>
+               <adjudicatario>Granipoças - Granitos,  Lda</adjudicatario>
+          </contrato>
+          <contrato id="id285">
+               <objcontrato>Pintura da piscina interior - Piscinas Municipais</objcontrato>
+               <preco>5.455,00 €</preco>
+               <datapub>29-11-2018</datapub>
+               <adjudicatario>Alcino Lopes dos Santos</adjudicatario>
+          </contrato>
+          <contrato id="id286">
+               <objcontrato>Passeio na Rua Luis de Camões - demolição e reconstrução...</objcontrato>
+               <preco>2.000,00 €</preco>
+               <datapub>28-11-2018</datapub>
+               <adjudicatario>Construções Moutinhal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id287">
+               <objcontrato>Reabilitação do Lagar de Varas de Vale de Mouro e...</objcontrato>
+               <preco>104.463,90 €</preco>
+               <datapub>28-11-2018</datapub>
+               <adjudicatario>Edibest - Engenharia e Construção, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id288">
+               <objcontrato>Beneficiação da Rua do Alto da Gandarada -execução de um...</objcontrato>
+               <preco>7.875,00 €</preco>
+               <datapub>28-11-2018</datapub>
+               <adjudicatario>SMDuarte Construções Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id289">
+               <objcontrato>Prospeção geológica-geotécnica - ampliação do Parque Industrial Manuel Lourenço Ferreira</objcontrato>
+               <preco>5.205,00 €</preco>
+               <datapub>14-11-2018</datapub>
+               <adjudicatario>Geoma - Geotecnia e Mecânica de Solos, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id290">
+               <objcontrato>Aquisição de tubagem e tampas de ferro fundido para o...</objcontrato>
+               <preco>20.504,70 €</preco>
+               <datapub>14-11-2018</datapub>
+               <adjudicatario>Mário Gonçalves, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id291">
+               <objcontrato>Aquisição de serviços - Demolição e transporte de resíduos de...</objcontrato>
+               <preco>10.069,85 €</preco>
+               <datapub>08-11-2018</datapub>
+               <adjudicatario>Precious Options, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id292">
+               <objcontrato>Aquisição de 1200 toneladas de tout-venant</objcontrato>
+               <preco>3.900,00 €</preco>
+               <datapub>06-11-2018</datapub>
+               <adjudicatario>Agrepor Agregados - Extração de Inertes, SA</adjudicatario>
+          </contrato>
+          <contrato id="id293">
+               <objcontrato>Actividades de enriquecimento curricular - Ensino de expressão musical do...</objcontrato>
+               <preco>5.850,00 €</preco>
+               <datapub>19-10-2018</datapub>
+               <adjudicatario>Hélia Maria Morais Tomé Duro</adjudicatario>
+          </contrato>
+          <contrato id="id294">
+               <objcontrato>Actividades de enriquecimento curricular - Ensino de inglês do 1º...</objcontrato>
+               <preco>5.850,00 €</preco>
+               <datapub>17-10-2018</datapub>
+               <adjudicatario>Lúcia Susana de Oliveira Rodrigues</adjudicatario>
+          </contrato>
+          <contrato id="id295">
+               <objcontrato>Actividades de enriquecimento curricular - Ensino de inglês do 1º...</objcontrato>
+               <preco>5.850,00 €</preco>
+               <datapub>12-10-2018</datapub>
+               <adjudicatario>Mauro José Tomaz Cabral</adjudicatario>
+          </contrato>
+          <contrato id="id296">
+               <objcontrato>Prestação de serviços de consultadoria</objcontrato>
+               <preco>9.000,00 €</preco>
+               <datapub>10-10-2018</datapub>
+               <adjudicatario>Previum - Consultoria, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id297">
+               <objcontrato>Reparação da máquina Bulldozer da marca Caterpillar D6D nº série...</objcontrato>
+               <preco>25.000,27 €</preco>
+               <datapub>10-10-2018</datapub>
+               <adjudicatario>Paulosauto - Peças e Autoindustriais, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id298">
+               <objcontrato>Fornecimento de combustíveis rodoviários</objcontrato>
+               <preco>323.646,00 €</preco>
+               <datapub>02-10-2018</datapub>
+               <adjudicatario>BP Portugal – Comércio de Combustíveis e Lubrificantes, SA</adjudicatario>
+          </contrato>
+          <contrato id="id299">
+               <objcontrato>Beneficiação de vias rodoviárias na Freguesia de Pala</objcontrato>
+               <preco>228.578,82 €</preco>
+               <datapub>07-09-2018</datapub>
+               <adjudicatario>Socitop - Unipessoal, Lda</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="OliveiradoHospital">
+          <nif>506818829</nif>
+          <contrato id="id300">
+               <objcontrato>Aquisição de serviços para elaboração, instrução, submissão e acompanhamento de...</objcontrato>
+               <preco>7.950,00 €</preco>
+               <datapub>21-12-2018</datapub>
+               <adjudicatario>FNWAY - Consulting, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id301">
+               <objcontrato>Aquisição de serviços de espectáculo musical com a Banda Função...</objcontrato>
+               <preco>13.000,00 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>Orquestras Costa Verde &amp; F.P., Lda</adjudicatario>
+          </contrato>
+          <contrato id="id302">
+               <objcontrato>Aquisição de serviços para execução do “Projeto de Recuperação, Valorização...</objcontrato>
+               <preco>17.065,00 €</preco>
+               <datapub>17-12-2018</datapub>
+               <adjudicatario>Nuno Miguel Martins Gonçalves Alves</adjudicatario>
+          </contrato>
+          <contrato id="id303">
+               <objcontrato>Aquisição de serviços para aluguer, montagem e desmontagem de estrutura...</objcontrato>
+               <preco>7.000,00 €</preco>
+               <datapub>15-12-2018</datapub>
+               <adjudicatario>Multidendas - Comércio e Aluguer de Tendas, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id304">
+               <objcontrato>Aquisição de serviços para execução do Projeto de Execução de...</objcontrato>
+               <preco>12.580,00 €</preco>
+               <datapub>07-12-2018</datapub>
+               <adjudicatario>Ytravel, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id305">
+               <objcontrato>Empreitada de "Fornecimento e aplicação de guardas de segurança metálicas,...</objcontrato>
+               <preco>13.710,00 €</preco>
+               <datapub>03-12-2018</datapub>
+               <adjudicatario>S.N.S.V - Sociedade Nacional de Sinalização Vertical, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id306">
+               <objcontrato>Aquisição de Plataforma de Desmaterialização de Processos Urbanísticos Nopaper e...</objcontrato>
+               <preco>43.000,00 €</preco>
+               <datapub>03-12-2018</datapub>
+               <adjudicatario>PH - Informática e Micro Sistemas, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id307">
+               <objcontrato>Aquisição de serviços para a operação/manutenção, controlo analítico e processual...</objcontrato>
+               <preco>19.656,00 €</preco>
+               <datapub>19-11-2018</datapub>
+               <adjudicatario>FirstWater - Ambiente e Engenharia, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id308">
+               <objcontrato>Aquisição de serviços para execução do Projeto de Execução de...</objcontrato>
+               <preco>9.600,00 €</preco>
+               <datapub>16-11-2018</datapub>
+               <adjudicatario>Gecivelt - Gabinete de Engenharia Civil, Electrotécnia e Topografia, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id309">
+               <objcontrato>Aquisição de serviços para execução do Projeto de Execução de...</objcontrato>
+               <preco>14.000,00 €</preco>
+               <datapub>16-11-2018</datapub>
+               <adjudicatario>Gecivelt - Gabinete de Engenharia Civil, Electrotecnica e Topopgrafia, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id310">
+               <objcontrato>Elaboração do Projeto de Execução do "Campus Educativo de Oliveira...</objcontrato>
+               <preco>74.000,00 €</preco>
+               <datapub>19-10-2018</datapub>
+               <adjudicatario>Carlos Santos - Arquitetura e Urbanismo, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id311">
+               <objcontrato>Aquisição de serviços de consultadoria (ciências da educação), em regime...</objcontrato>
+               <preco>9.281,25 €</preco>
+               <datapub>19-10-2018</datapub>
+               <adjudicatario>Fátima Patrícia Amaral Figueiredo</adjudicatario>
+          </contrato>
+          <contrato id="id312">
+               <objcontrato>Aquisição de serviços de Auditoria e Certificação Legal de Contas...</objcontrato>
+               <preco>8.600,00 €</preco>
+               <datapub>18-10-2018</datapub>
+               <adjudicatario>BDO &amp; Associados, Sociedade de Revisores Oficiais de Contas, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id313">
+               <objcontrato>Empreitada de Requalificação e Beneficiação da área Norte da Cidade...</objcontrato>
+               <preco>715.669,37 €</preco>
+               <datapub>12-10-2018</datapub>
+               <adjudicatario>Irmãos Almeida Cabral, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id314">
+               <objcontrato>Aquisição de serviços de consultadoria (psicologia), em regime de avença,...</objcontrato>
+               <preco>9.281,25 €</preco>
+               <datapub>12-10-2018</datapub>
+               <adjudicatario>Júlio Craveiro Mendes</adjudicatario>
+          </contrato>
+          <contrato id="id315">
+               <objcontrato>Aquisição de serviços de consultadoria (psicologia), em regime de avença,...</objcontrato>
+               <preco>9.281,25 €</preco>
+               <datapub>10-10-2018</datapub>
+               <adjudicatario>Ana Catarina Tavares Cardoso</adjudicatario>
+          </contrato>
+          <contrato id="id316">
+               <objcontrato>Aquisição de serviços de consultadoria (assistente social), em regime de...</objcontrato>
+               <preco>9.281,25 €</preco>
+               <datapub>10-10-2018</datapub>
+               <adjudicatario>Filipa Alexandra Guilherme Pais</adjudicatario>
+          </contrato>
+          <contrato id="id317">
+               <objcontrato>Aquisição de serviços para a execução de transportes escolares, circuitos...</objcontrato>
+               <preco>19.890,00 €</preco>
+               <datapub>04-10-2018</datapub>
+               <adjudicatario>ATF - Auto Transportes do Fundão, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id318">
+               <objcontrato>Empreitada de substituição de sinalização toponímica, turística, orientadora, vertical e...</objcontrato>
+               <preco>184.542,89 €</preco>
+               <datapub>28-09-2018</datapub>
+               <adjudicatario>S.N.S.V. - Sociedade Nacional de Sinalização Vertical, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id319">
+               <objcontrato>Empreitada de substituição e ampliação da rede de drenagem de...</objcontrato>
+               <preco>66.748,26 €</preco>
+               <datapub>25-09-2018</datapub>
+               <adjudicatario>A Construtora Nogueirense, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id320">
+               <objcontrato>Aquisição de serviços de assessoria técnica especializada para monitorização do...</objcontrato>
+               <preco>30.900,00 €</preco>
+               <datapub>19-09-2018</datapub>
+               <adjudicatario>JNZ Consultores, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id321">
+               <objcontrato>Aquisição de serviços para a execução de transportes escolares, circuitos...</objcontrato>
+               <preco>9.969,56 €</preco>
+               <datapub>18-09-2018</datapub>
+               <adjudicatario>Freguesia de Meruge</adjudicatario>
+          </contrato>
+          <contrato id="id322">
+               <objcontrato>Empreitada de execução de colector/emissário, de águas residuais, para ligação...</objcontrato>
+               <preco>18.514,28 €</preco>
+               <datapub>13-09-2018</datapub>
+               <adjudicatario>Fonseca &amp; Fonseca, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id323">
+               <objcontrato>Aquisição de serviços para a execução de transportes escolares, circuito...</objcontrato>
+               <preco>6.826,68 €</preco>
+               <datapub>12-09-2018</datapub>
+               <adjudicatario>Videtaxis, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id324">
+               <objcontrato>Aquisição de serviços para a execução de transportes escolares, circuitos...</objcontrato>
+               <preco>8.546,68 €</preco>
+               <datapub>12-09-2018</datapub>
+               <adjudicatario>Videtaxis, Lda</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="PampilhosaDaSerra">
+          <nif>506811883</nif>
+          <contrato id="id325">
+               <objcontrato>Aquisição de Material Cénico - Inspira Natal 2018</objcontrato>
+               <preco>35.120,00 €</preco>
+               <datapub>17-12-2018</datapub>
+               <adjudicatario>Quociente Positivo, Unipessoal, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id326">
+               <objcontrato>Pampilhosa da Serra Inspira Natal 2018</objcontrato>
+               <preco>73.960,00 €</preco>
+               <datapub>13-12-2018</datapub>
+               <adjudicatario>Pirotecnia Oleirense</adjudicatario>
+          </contrato>
+          <contrato id="id327">
+               <objcontrato>Abertura de Faixas de Gestão Combustiveis em Rede Primária -...</objcontrato>
+               <preco>73.500,33 €</preco>
+               <datapub>07-11-2018</datapub>
+               <adjudicatario>Nova Floresta - Serviços e Gestão Florestal Lda</adjudicatario>
+          </contrato>
+          <contrato id="id328">
+               <objcontrato>Fornecimento de Refeições Escolares para o 1.º CEB Público de...</objcontrato>
+               <preco>12.274,50 €</preco>
+               <datapub>28-09-2018</datapub>
+               <adjudicatario>Associação de Solida. Social de Dornelas do Zêzere</adjudicatario>
+          </contrato>
+          <contrato id="id329">
+               <objcontrato>Aquisição de Manuais Escolares para o Ano Letivo 2018/2019</objcontrato>
+               <preco>19.720,38 €</preco>
+               <datapub>24-09-2018</datapub>
+               <adjudicatario>AMERICANA - PAPELARIA, SA</adjudicatario>
+          </contrato>
+          <contrato id="id330">
+               <objcontrato>Produção de Eventos - SEASIDE SUNSET SESSIONS 2018</objcontrato>
+               <preco>19.840,00 €</preco>
+               <datapub>30-08-2018</datapub>
+               <adjudicatario>LusoEvents – Produções Multimédia, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id331">
+               <objcontrato>Seaside Sunset Sessions 2018 Animação</objcontrato>
+               <preco>19.520,00 €</preco>
+               <datapub>30-08-2018</datapub>
+               <adjudicatario>Un Party Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id332">
+               <objcontrato>Fornecimento e instalação de Pórtico, para as festas do Concelho</objcontrato>
+               <preco>15.400,00 €</preco>
+               <datapub>30-08-2018</datapub>
+               <adjudicatario>LCS - Led Creative Solutions Unipessoal, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id333">
+               <objcontrato>Seaside Sunset Sessions - Instalação de plataformas</objcontrato>
+               <preco>39.660,00 €</preco>
+               <datapub>30-08-2018</datapub>
+               <adjudicatario>IRMARFER, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id334">
+               <objcontrato>Contratação de artistas para animação da Praia Fluvial - Animação...</objcontrato>
+               <preco>19.580,00 €</preco>
+               <datapub>30-08-2018</datapub>
+               <adjudicatario>IDEIAS NÃO FALTAM, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id335">
+               <objcontrato>Assessoria Estratégica de Oportunidades e Reabilitação Urbana</objcontrato>
+               <preco>29.800,00 €</preco>
+               <datapub>28-08-2018</datapub>
+               <adjudicatario>Sociedade Portuguesa de Inovação - Consultoria Empresarial e Fomento da Inovação S.A</adjudicatario>
+          </contrato>
+          <contrato id="id336">
+               <objcontrato>Aquisição de Galera Basculante</objcontrato>
+               <preco>31.737,02 €</preco>
+               <datapub>20-08-2018</datapub>
+               <adjudicatario>Roques Comércio Veiculos Equip. e Servços, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id337">
+               <objcontrato>Construção de Posto de abastecimento de combustíveis para consumo próprio</objcontrato>
+               <preco>66.523,42 €</preco>
+               <datapub>20-08-2018</datapub>
+               <adjudicatario>Petroassist - Engenharia e Serviços, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id338">
+               <objcontrato>Reparação da Estrada Municipal EM5 _ Padrões - Folgares</objcontrato>
+               <preco>15.720,00 €</preco>
+               <datapub>19-08-2018</datapub>
+               <adjudicatario>Calado &amp; Duarte Lda</adjudicatario>
+          </contrato>
+          <contrato id="id339">
+               <objcontrato>Reparação da Estrada Municipal EM4 _ Amoreira Cimeira - Vilar</objcontrato>
+               <preco>10.537,00 €</preco>
+               <datapub>19-08-2018</datapub>
+               <adjudicatario>Construções J.J.R. &amp; Filhos, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id340">
+               <objcontrato>Reparação da Estrada Municipal EM7 _ Carvalho – EN112</objcontrato>
+               <preco>94.195,00 €</preco>
+               <datapub>19-08-2018</datapub>
+               <adjudicatario>Calado &amp; Duarte Lda</adjudicatario>
+          </contrato>
+          <contrato id="id341">
+               <objcontrato>Reparação da Estrada Municipal EM8 _ Telhada – EN112</objcontrato>
+               <preco>125.929,20 €</preco>
+               <datapub>19-08-2018</datapub>
+               <adjudicatario>Calado &amp; Duarte Lda</adjudicatario>
+          </contrato>
+          <contrato id="id342">
+               <objcontrato>Reparação da Estrada Municipal EM11 _ Braçal – EN112</objcontrato>
+               <preco>41.605,00 €</preco>
+               <datapub>19-08-2018</datapub>
+               <adjudicatario>Calado &amp; Duarte Lda</adjudicatario>
+          </contrato>
+          <contrato id="id343">
+               <objcontrato>Reparação da Estrada Municipal EM12 _ EN 112 – Malhada...</objcontrato>
+               <preco>267.873,38 €</preco>
+               <datapub>19-08-2018</datapub>
+               <adjudicatario>ISIDORO CORREIA DA SILVA, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id344">
+               <objcontrato>Aquisição de Espetáculo Musical de Tony Carreira para a FAG...</objcontrato>
+               <preco>38.000,00 €</preco>
+               <datapub>14-08-2018</datapub>
+               <adjudicatario>REGI-CONCERTO-PRODUÇÕES MUSICAIS E AUDIOVISUAIS, LDA</adjudicatario>
+          </contrato>
+          <contrato id="id345">
+               <objcontrato>Aquisição de Serviços para Realização de Espetáculos Musicais no Âmbito...</objcontrato>
+               <preco>60.820,00 €</preco>
+               <datapub>14-08-2018</datapub>
+               <adjudicatario>Plateia Original</adjudicatario>
+          </contrato>
+          <contrato id="id346">
+               <objcontrato>PRESTAÇÃO DE SERVIÇOS DE IMPRESSÃO, CÓPIA E DIGITALIZAÇÃO NO MUNICÍPIO...</objcontrato>
+               <preco>51.332,40 €</preco>
+               <datapub>03-08-2018</datapub>
+               <adjudicatario>Konica Minolta Business Solutions Portugal, Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id347">
+               <objcontrato>REPARAÇÃO DE ESTRADA MUNICIPAL EM5 _ PADRÕES - FOLGARES</objcontrato>
+               <preco>15.720,00 €</preco>
+               <datapub>18-06-2018</datapub>
+               <adjudicatario>Calado &amp; Duarte Lda</adjudicatario>
+          </contrato>
+          <contrato id="id348">
+               <objcontrato>REPARAÇÃO DE ESTRADA MUNICIPAL EM13 _ ALDEIA FUNDEIRA - PRELES</objcontrato>
+               <preco>19.927,59 €</preco>
+               <datapub>18-06-2018</datapub>
+               <adjudicatario>Diamantino Jorge &amp; Filho, S. A.</adjudicatario>
+          </contrato>
+          <contrato id="id349">
+               <objcontrato>REPARAÇÃO DE ESTRADA MUNICIPAL EM3 _ TRINHÃO - CRUZ EN344...</objcontrato>
+               <preco>62.100,70 €</preco>
+               <datapub>18-06-2018</datapub>
+               <adjudicatario>Calado &amp; Duarte Lda</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Penacova">
+          <nif>506657957</nif>
+          <contrato id="id350">
+               <objcontrato>Aquisição de Serviços de Manutenção das Instalações Mecânicas e do...</objcontrato>
+               <preco>2.527,00 €</preco>
+               <datapub>15-01-2019</datapub>
+               <adjudicatario>Piclima - Projetos e Instalações de Climatização, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id351">
+               <objcontrato>Aquisição de Serviços de Conceção e Design do Conceito “Penacova...</objcontrato>
+               <preco>18.845,00 €</preco>
+               <datapub>20-12-2018</datapub>
+               <adjudicatario>Ensoorigins, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id352">
+               <objcontrato>Aquisição de Gás Propano a granel para as Piscinas Municipais,...</objcontrato>
+               <preco>11.902,41 €</preco>
+               <datapub>13-12-2018</datapub>
+               <adjudicatario>OZ Energia Gás, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id353">
+               <objcontrato>Instalação de Redes de Defesa da Floresta contra Incêndios no...</objcontrato>
+               <preco>152.234,69 €</preco>
+               <datapub>12-12-2018</datapub>
+               <adjudicatario>Floresta Jovem, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id354">
+               <objcontrato>Aquisição de Serviços de Transportes Escolares para o Ano Letivo...</objcontrato>
+               <preco>49.167,00 €</preco>
+               <datapub>10-12-2018</datapub>
+               <adjudicatario>UTS Viagens e Serviços S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id355">
+               <objcontrato>Construção Centros Educativos (EB1) Lorvão - Projeto de Execução de...</objcontrato>
+               <preco>9.990,00 €</preco>
+               <datapub>04-12-2018</datapub>
+               <adjudicatario>Carlos Santos - Arquitetura e Urbanismo, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id356">
+               <objcontrato>MEDIDAS DE PROTEÇÃO DE RECURSOS HÍDRICOS – APA ÁREAS AFETADAS...</objcontrato>
+               <preco>140.817,00 €</preco>
+               <datapub>26-11-2018</datapub>
+               <adjudicatario>Floresta Jovem, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id357">
+               <objcontrato>Aquisição de serviços de programação artística para a Feira do...</objcontrato>
+               <preco>21.200,00 €</preco>
+               <datapub>26-11-2018</datapub>
+               <adjudicatario>Ritmo Obrigatório, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id358">
+               <objcontrato>Aquisição de serviços de produção de espaço e aluguer de...</objcontrato>
+               <preco>19.700,00 €</preco>
+               <datapub>26-11-2018</datapub>
+               <adjudicatario>Ritmo Obrigatório, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id359">
+               <objcontrato>Aquisição de serviços de aluguer de equipamentos expositivos para a...</objcontrato>
+               <preco>12.140,00 €</preco>
+               <datapub>26-11-2018</datapub>
+               <adjudicatario>Penaeventus Unipessoal, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id360">
+               <objcontrato>Aquisição de Serviços de Transporte para as Piscinas Municipais de...</objcontrato>
+               <preco>6.250,00 €</preco>
+               <datapub>21-11-2018</datapub>
+               <adjudicatario>Mlopestur - Animação Turística, Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id361">
+               <objcontrato>Aquisição de Serviços de Transporte para as Piscinas Municipais de...</objcontrato>
+               <preco>5.850,00 €</preco>
+               <datapub>21-11-2018</datapub>
+               <adjudicatario>Centro de Bem Estar Social da Freguesia de Figueira de Lorvão</adjudicatario>
+          </contrato>
+          <contrato id="id362">
+               <objcontrato>Aquisição de Serviços de Transporte Escolar para o Ano Letivo...</objcontrato>
+               <preco>5.418,00 €</preco>
+               <datapub>16-11-2018</datapub>
+               <adjudicatario>Mocidade Futebol Clube</adjudicatario>
+          </contrato>
+          <contrato id="id363">
+               <objcontrato>Aquisição de Serviços de Limpeza de Fossas Domésticas (Recolha, Transporte...</objcontrato>
+               <preco>53.928,00 €</preco>
+               <datapub>13-11-2018</datapub>
+               <adjudicatario>Eco Collipo, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id364">
+               <objcontrato>P.O.C.NF.DP. / PROJETO DE EXECUÇÃO DA ROTUNDA DO LARGO DA...</objcontrato>
+               <preco>9.750,00 €</preco>
+               <datapub>09-11-2018</datapub>
+               <adjudicatario>DCRS - Engenharia, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id365">
+               <objcontrato>Aquisição de uma solução de Storage com instalação e configuração...</objcontrato>
+               <preco>16.523,70 €</preco>
+               <datapub>06-11-2018</datapub>
+               <adjudicatario>Neos Integrated Solutions, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id366">
+               <objcontrato>Aquisição de serviços de investigação e desenvolvimento com a Universidade...</objcontrato>
+               <preco>40.673,23 €</preco>
+               <datapub>31-10-2018</datapub>
+               <adjudicatario>Universidade de Coimbra</adjudicatario>
+          </contrato>
+          <contrato id="id367">
+               <objcontrato>Aquisição de serviços de transportes escolares para o Ano Letivo...</objcontrato>
+               <preco>19.399,89 €</preco>
+               <datapub>18-10-2018</datapub>
+               <adjudicatario>Centro de Bem Estar Social da Freguesia de Figueira de Lorvão</adjudicatario>
+          </contrato>
+          <contrato id="id368">
+               <objcontrato>Aquisição de serviços de transportes escolares para o Ano Letivo...</objcontrato>
+               <preco>48.492,50 €</preco>
+               <datapub>18-10-2018</datapub>
+               <adjudicatario>UTS - Viagens e Serviços, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id369">
+               <objcontrato>Pavimentações na Freguesia de Lorvão - Beneficiação dos arruamentos principais...</objcontrato>
+               <preco>546.999,99 €</preco>
+               <datapub>11-10-2018</datapub>
+               <adjudicatario>Prioridade - Construção Vias de  Comunicação, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id370">
+               <objcontrato>Recarga do Areal da Praia Fluvial do Reconquinho</objcontrato>
+               <preco>12.780,00 €</preco>
+               <datapub>04-10-2018</datapub>
+               <adjudicatario>Transportes Silva Baptista, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id371">
+               <objcontrato>Aquisição de Serviços de Consultadoria e Assessoria à Organização da...</objcontrato>
+               <preco>10.000,00 €</preco>
+               <datapub>24-09-2018</datapub>
+               <adjudicatario>Carlos Sá Ribeiro, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id372">
+               <objcontrato>Execução de obras de reparação do corpo do açude da...</objcontrato>
+               <preco>17.700,00 €</preco>
+               <datapub>18-09-2018</datapub>
+               <adjudicatario>Fozvias Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id373">
+               <objcontrato>Aquisição de serviços para Direção Técnica de Piscinas e Pavilhão...</objcontrato>
+               <preco>19.575,00 €</preco>
+               <datapub>17-09-2018</datapub>
+               <adjudicatario>Gesinserde - Gestão e Inovação nos Serviços Desportivos, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id374">
+               <objcontrato>Aquisição de Serviços na área de psicologia para o ano...</objcontrato>
+               <preco>16.875,00 €</preco>
+               <datapub>05-09-2018</datapub>
+               <adjudicatario>Elisabete da Silva Fernandes</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Penela">
+          <nif>506778037</nif>
+          <contrato id="id375">
+               <objcontrato>ELABORAÇÃO DO PROJETO DE EXECUÇÃO DA EXTENSÃO DO SAR DE...</objcontrato>
+               <preco>8.850,00 €</preco>
+               <datapub>23-01-2019</datapub>
+               <adjudicatario>C.T.G.A. - Centro Tecnológico de Gestão Ambiental, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id376">
+               <objcontrato>PENELA PRESÉPIO 2018 - "RECRIAÇÃO DA ROTINA HEBRAICA AO TEMPO...</objcontrato>
+               <preco>10.000,00 €</preco>
+               <datapub>17-01-2019</datapub>
+               <adjudicatario>Companhia de Teatro Viv'arte - Laboratório de Recriação histórica, associação privada</adjudicatario>
+          </contrato>
+          <contrato id="id377">
+               <objcontrato>SERVIÇOS DE CONSULTORIA PARA A PREPARAÇÃO E SUBMISSÃO DE CANDIDATURA...</objcontrato>
+               <preco>9.500,00 €</preco>
+               <datapub>11-01-2019</datapub>
+               <adjudicatario>C.T.G.A. - Centro Tecnológico de Gestão Ambiental, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id378">
+               <objcontrato>ELABORAÇÃO DO PROJETO DE RETIFICAÇÃO DO LOTEAMENTO DA ZONA INDUSTRIAL...</objcontrato>
+               <preco>8.150,00 €</preco>
+               <datapub>11-01-2019</datapub>
+               <adjudicatario>Aquavia - Gabinente de estudos e projetos de obras, limitada</adjudicatario>
+          </contrato>
+          <contrato id="id379">
+               <objcontrato>FORNECIMENTO DE PROJETORES</objcontrato>
+               <preco>9.475,56 €</preco>
+               <datapub>04-01-2019</datapub>
+               <adjudicatario>Virtual Power Solutions, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id380">
+               <objcontrato>INSTALAÇÃO DE REDES DE DEFESA DA FLORESTA CONTRA INCÊNDIOS -...</objcontrato>
+               <preco>10.080,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Viaplanta - Sociedade Comercial de limpeza e Ajardinamento, Limitada</adjudicatario>
+          </contrato>
+          <contrato id="id381">
+               <objcontrato>ALUGUER DE STANDS PARA A FEIRA DE SÃO MIGUEL -...</objcontrato>
+               <preco>23.600,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Spormex - Sociedade Portuguesa de Montagens de Exposições, SA</adjudicatario>
+          </contrato>
+          <contrato id="id382">
+               <objcontrato>Reabilitação de Estradas Municipais – Caminho Municipal 1202 (E.N. 347/...</objcontrato>
+               <preco>99.296,34 €</preco>
+               <datapub>12-12-2018</datapub>
+               <adjudicatario>Calado &amp; Duarte, lda.</adjudicatario>
+          </contrato>
+          <contrato id="id383">
+               <objcontrato>PAVIMENTAÇÕES 2018</objcontrato>
+               <preco>14.096,70 €</preco>
+               <datapub>07-12-2018</datapub>
+               <adjudicatario>Isidoro Correia da Silva, lda</adjudicatario>
+          </contrato>
+          <contrato id="id384">
+               <objcontrato>MOVIMENTO DE TERRAS NA ZIP - 2018</objcontrato>
+               <preco>69.833,85 €</preco>
+               <datapub>07-12-2018</datapub>
+               <adjudicatario>Penelaterraplanagens - Desaterros e Terraplanagens, limitada</adjudicatario>
+          </contrato>
+          <contrato id="id385">
+               <objcontrato>AMPLIAÇÃO DA REDE DE ABASTECIMENTO DE ÁGUA ENTRE PODENTES E...</objcontrato>
+               <preco>236.000,03 €</preco>
+               <datapub>04-12-2018</datapub>
+               <adjudicatario>Coimbraferrus - construção civil, obras públicas e transportes, limitada</adjudicatario>
+          </contrato>
+          <contrato id="id386">
+               <objcontrato>Aquisição de serviços de Psicologia Clinica no âmbito da Atividade...</objcontrato>
+               <preco>6.000,00 €</preco>
+               <datapub>04-12-2018</datapub>
+               <adjudicatario>Eliana Fernandes Silva</adjudicatario>
+          </contrato>
+          <contrato id="id387">
+               <objcontrato>Fornecimento de viatura ligeira usada</objcontrato>
+               <preco>10.000,00 €</preco>
+               <datapub>22-11-2018</datapub>
+               <adjudicatario>Santamarauto, Comércio e Reparação de Automóveis, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id388">
+               <objcontrato>FORNECIMENTO DE SIMULADOR DE VISITA VIRTUAL DAS GRUTAS</objcontrato>
+               <preco>44.250,00 €</preco>
+               <datapub>14-11-2018</datapub>
+               <adjudicatario>Crossing Answers, limitada</adjudicatario>
+          </contrato>
+          <contrato id="id389">
+               <objcontrato>AQUISIÇÃO DE APLICAÇÃO MÓVEL</objcontrato>
+               <preco>9.700,00 €</preco>
+               <datapub>05-11-2018</datapub>
+               <adjudicatario>Crossing Answers, Ldª.</adjudicatario>
+          </contrato>
+          <contrato id="id390">
+               <objcontrato>AQUISIÇÃO DE SERVIÇOS PARA A INSTALAÇÃO DE REDES DE DEFESA...</objcontrato>
+               <preco>159.320,00 €</preco>
+               <datapub>31-10-2018</datapub>
+               <adjudicatario>Penelaterraplanagens - Desaterros e Terraplanagens, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id391">
+               <objcontrato>Fornecimento e aplicação de sinalização horizontal, vertical e rails de...</objcontrato>
+               <preco>37.135,42 €</preco>
+               <datapub>31-10-2018</datapub>
+               <adjudicatario>SNSV - Sociedade Nacional de Sinalização Vertical, limitada</adjudicatario>
+          </contrato>
+          <contrato id="id392">
+               <objcontrato>PRESTAÇÃO DE SERVIÇOS DE REPARAÇÃO DE VIATURAS E MÁQUINAS</objcontrato>
+               <preco>9.313,60 €</preco>
+               <datapub>08-10-2018</datapub>
+               <adjudicatario>Arlindo auto, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id393">
+               <objcontrato>CONSTRUÇÃO DE PONTE RODOVIÁRIA EM MOINHOS DA RIBEIRA</objcontrato>
+               <preco>92.800,00 €</preco>
+               <datapub>04-10-2018</datapub>
+               <adjudicatario>Lápis, engenharia, limitada</adjudicatario>
+          </contrato>
+          <contrato id="id394">
+               <objcontrato>Fornecimento de servidores para alojamento de plataforma de serviços de...</objcontrato>
+               <preco>10.062,88 €</preco>
+               <datapub>04-10-2018</datapub>
+               <adjudicatario>RCSOFT - Sistemas de Informação, Unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id395">
+               <objcontrato>ELABORAÇÃO DO PROJETO DE“REQUALIFICAÇÃO DO ESPAÇO NATURAL DA LOUÇAINHA”...</objcontrato>
+               <preco>9.720,00 €</preco>
+               <datapub>04-10-2018</datapub>
+               <adjudicatario>Vanessa Filipa Minhós Concha de Almeida</adjudicatario>
+          </contrato>
+          <contrato id="id396">
+               <objcontrato>ELABORAÇÃO DO PROJETO DE "HABITAT DE INOVAÇÃO EMPRESARIAL EM SETORES...</objcontrato>
+               <preco>19.970,00 €</preco>
+               <datapub>03-10-2018</datapub>
+               <adjudicatario>A3 Arquitetos, Gabinete de Projetos, lda</adjudicatario>
+          </contrato>
+          <contrato id="id397">
+               <objcontrato>FORNECIMENTO E MONTAGEM DE GRUPO GERADOR DE 28KVA (PRP -...</objcontrato>
+               <preco>9.850,00 €</preco>
+               <datapub>03-10-2018</datapub>
+               <adjudicatario>José Marques Grácio, S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id398">
+               <objcontrato>Aquisição de serviços de organização de um espetáculo ao vivo...</objcontrato>
+               <preco>18.500,00 €</preco>
+               <datapub>28-09-2018</datapub>
+               <adjudicatario>PG Booking - Agenciamento e Produção de Espetaculos, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id399">
+               <objcontrato>Aquisição de serviços de verificação de despesa do projecto SustForest...</objcontrato>
+               <preco>1.000,00 €</preco>
+               <datapub>11-09-2018</datapub>
+               <adjudicatario>Marques de Almeida J. Nunes V. Simões &amp; Associados, SROC, S.A.</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Soure">
+          <nif>507103742</nif>
+          <contrato id="id400">
+               <objcontrato>Substituição de Ramais na Rua do Terreiro no Pedrógão do...</objcontrato>
+               <preco>39.290,00 €</preco>
+               <datapub>10-01-2019</datapub>
+               <adjudicatario>A.M. Cacho &amp; Brás, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id401">
+               <objcontrato>ARRUAMENTOS NO FORMIGAL, BARREIRAS E MIRA-OLHOS</objcontrato>
+               <preco>76.422,00 €</preco>
+               <datapub>10-01-2019</datapub>
+               <adjudicatario>Delfim de Jesus Martins &amp; Irmão, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id402">
+               <objcontrato>Comunicações e Transportes - Rede Viária e Sinalização - Sinalização...</objcontrato>
+               <preco>10.078,74 €</preco>
+               <datapub>07-01-2019</datapub>
+               <adjudicatario>MIRANVIAS - PINTURA E SINALIZACAO, LDA</adjudicatario>
+          </contrato>
+          <contrato id="id403">
+               <objcontrato>SANEAMENTO E SALUBRIDADE - RESÍDUOS - RESÍDUOS SÓLIDOS - REDE...</objcontrato>
+               <preco>31.400,00 €</preco>
+               <datapub>02-01-2019</datapub>
+               <adjudicatario>Ambipombal - Recolha de Resíduos Industrias, SA</adjudicatario>
+          </contrato>
+          <contrato id="id404">
+               <objcontrato>SANEAMENTO E SALUBRIDADE – RESÍDUOS - “RECICLA SOURE” - AQUISIÇÃO...</objcontrato>
+               <preco>10.007,40 €</preco>
+               <datapub>02-01-2019</datapub>
+               <adjudicatario>SNSV - Sociedade Nacional Sinalização Vertical, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id405">
+               <objcontrato>ÁGUA - AQUISIÇÃO DE VIATURAS</objcontrato>
+               <preco>12.150,00 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Carlos &amp; Ricardo Automóveis, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id406">
+               <objcontrato>SERVIÇOS MUNICIPAIS - AQUISIÇÃO DE VIATURAS</objcontrato>
+               <preco>17.642,27 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>André Pedro Rodrigues dos Santos, Unipessoal, lda.</adjudicatario>
+          </contrato>
+          <contrato id="id407">
+               <objcontrato>SERVIÇOS MUNICIPAIS - MODERNIZAÇÃO ADMINISTRATIVA - EQUIPAMENTO – SOFTWARE E...</objcontrato>
+               <preco>72.196,23 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>AIRC - Associação Informática da Região Centro</adjudicatario>
+          </contrato>
+          <contrato id="id408">
+               <objcontrato>REABILITAÇÃO DO LARGO NO PARQUE DO PEDRÓGÃO DO PRANTO</objcontrato>
+               <preco>9.776,18 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Construtora Guardado &amp; Oliveira, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id409">
+               <objcontrato>DESPORTO E TEMPOS LIVRES - EQUIPAMENTOS E INFRAESTRUTURAS DESPORTIVAS -...</objcontrato>
+               <preco>39.850,00 €</preco>
+               <datapub>27-12-2018</datapub>
+               <adjudicatario>Itecons- Instituto de investigação e desenvolvimento tecnológico par a construção, energia, ambiente e sustentabilidade</adjudicatario>
+          </contrato>
+          <contrato id="id410">
+               <objcontrato>Obras Municipais - Obras de Adaptação do Tribunal de Soure</objcontrato>
+               <preco>29.900,00 €</preco>
+               <datapub>12-12-2018</datapub>
+               <adjudicatario>Global Original - Construção, Unipessoal, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id411">
+               <objcontrato>DESENVOLVIMENTO ECONÓMICO E DEFESA DO MEIO AMBIENTE - APOIO À...</objcontrato>
+               <preco>19.600,00 €</preco>
+               <datapub>06-12-2018</datapub>
+               <adjudicatario>Engysp, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id412">
+               <objcontrato>EDUCAÇÃO E JUVENTUDE – ENSINO BÁSICO E SECUNDÁRIO - CANDIDATURA...</objcontrato>
+               <preco>9.360,00 €</preco>
+               <datapub>04-12-2018</datapub>
+               <adjudicatario>Tiago Alexandre Cardoso Rodrigues</adjudicatario>
+          </contrato>
+          <contrato id="id413">
+               <objcontrato>SANEAMENTO E SALUBRIDADE - CEMITÉRIOS - CEMITÉRIO DE SOURE -...</objcontrato>
+               <preco>33.100,00 €</preco>
+               <datapub>09-11-2018</datapub>
+               <adjudicatario>Aresta Garrida, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id414">
+               <objcontrato>Saúde - Ações no Âmbito da Saúde - USF -...</objcontrato>
+               <preco>317.106,33 €</preco>
+               <datapub>31-10-2018</datapub>
+               <adjudicatario>Canas Engenharia e Construção SA</adjudicatario>
+          </contrato>
+          <contrato id="id415">
+               <objcontrato>DEFESA DO MEIO AMBIENTE - CONSTRUÇÃO, REABILITAÇÃO E REQUALIFICAÇÃO -...</objcontrato>
+               <preco>15.872,01 €</preco>
+               <datapub>04-10-2018</datapub>
+               <adjudicatario>Construtora Guardado &amp; Oliveira, Ldª</adjudicatario>
+          </contrato>
+          <contrato id="id416">
+               <objcontrato>CONSTRUÇÃO DE CAMPOS RELVADOS - CAMPO DE FUTEBOL DE SOURE</objcontrato>
+               <preco>65.020,00 €</preco>
+               <datapub>01-10-2018</datapub>
+               <adjudicatario>ZCAMPO, LDA</adjudicatario>
+          </contrato>
+          <contrato id="id417">
+               <objcontrato>AÇÃO SOCIAL – REDE SOCIAL E AÇÃO SOCIAL - GABINETE...</objcontrato>
+               <preco>15.400,00 €</preco>
+               <datapub>13-08-2018</datapub>
+               <adjudicatario>Ricardo Conde &amp; Marco Cravo, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id418">
+               <objcontrato>Água e Termalismo - Água - Conservação/Reparação da Rede Existente...</objcontrato>
+               <preco>74.032,46 €</preco>
+               <datapub>09-08-2018</datapub>
+               <adjudicatario>SEGMENTOPROVÁVEL - Serviços e Manutenção, Ldª.</adjudicatario>
+          </contrato>
+          <contrato id="id419">
+               <objcontrato>COMUNICAÇÕES E TRANSPORTES - REDE VIÁRIA E SINALIZAÇÃO - CONSERVAÇÃO/REPARAÇÃO...</objcontrato>
+               <preco>30.992,93 €</preco>
+               <datapub>09-08-2018</datapub>
+               <adjudicatario>Contec - Construção e Engenharia, SA</adjudicatario>
+          </contrato>
+          <contrato id="id420">
+               <objcontrato>Educação e Juventude - Ensino Básico e Secundário - Ampliação/Conservação/Reparação...</objcontrato>
+               <preco>13.025,23 €</preco>
+               <datapub>26-07-2018</datapub>
+               <adjudicatario>Cordeiro &amp; Curado, Construção Civil e Vendas de Materiais de Construção Civil, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id421">
+               <objcontrato>ACÇÃO SOCIAL - COMISSÃO DE PROTECÇÃO DE CRIANÇAS E JOVENS...</objcontrato>
+               <preco>6.600,00 €</preco>
+               <datapub>17-07-2018</datapub>
+               <adjudicatario>Porfírio António Cardoso Quedas</adjudicatario>
+          </contrato>
+          <contrato id="id422">
+               <objcontrato>GABINETE DE SAÚDE PÚBLICA - CONTRATAÇÃO DE 1 PRESTADOR DE...</objcontrato>
+               <preco>16.500,00 €</preco>
+               <datapub>16-07-2018</datapub>
+               <adjudicatario>Joaquim Sebastião Estanislau Soares</adjudicatario>
+          </contrato>
+          <contrato id="id423">
+               <objcontrato>SERVIÇOS MUNICIPAIS - INVENTARIAÇÃO DO PATRIMÓNIO / SNC-AP / CONTABILIDADE...</objcontrato>
+               <preco>29.800,00 €</preco>
+               <datapub>16-07-2018</datapub>
+               <adjudicatario>TSE - TÉCNICOS AO SERVIÇO DAS EMPRESAS, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id424">
+               <objcontrato>SERVIÇOS MUNICIPAIS - ASSISTÊNCIA TÉCNICA - PARQUE INFORMÁTICO MUNICIPAL</objcontrato>
+               <preco>19.952,00 €</preco>
+               <datapub>16-07-2018</datapub>
+               <adjudicatario>REALESTUDO</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="Tábua">
+          <nif>506806944</nif>
+          <contrato id="id425">
+               <objcontrato>Aquisição de Serviços de Auditoria Externa e Certificação Legal de...</objcontrato>
+               <preco>19.800,00 €</preco>
+               <datapub>08-01-2019</datapub>
+               <adjudicatario>MARQUES DE ALMEIDA, J. NUNES, V. SIMÕES E ASSOCIADOS, SROC., S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id426">
+               <objcontrato>Aquisição de Viatura Nova de Transporte de Passageiros</objcontrato>
+               <preco>16.656,72 €</preco>
+               <datapub>02-01-2019</datapub>
+               <adjudicatario>Auto Industrial S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id427">
+               <objcontrato>Aquisição de Serviços de Psicologia Clínica no âmbito do Plano...</objcontrato>
+               <preco>8.190,00 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Maria Luísa Nunes Piedade</adjudicatario>
+          </contrato>
+          <contrato id="id428">
+               <objcontrato>Aquisição de Serviços de Educação Social no âmbito do Plano...</objcontrato>
+               <preco>10.417,50 €</preco>
+               <datapub>19-12-2018</datapub>
+               <adjudicatario>Patrícia Sofia Nunes Gomes</adjudicatario>
+          </contrato>
+          <contrato id="id429">
+               <objcontrato>Fornecimento contínuo de materiais de construção</objcontrato>
+               <preco>19.823,26 €</preco>
+               <datapub>12-12-2018</datapub>
+               <adjudicatario>Ricardo José Esteves Saraiva</adjudicatario>
+          </contrato>
+          <contrato id="id430">
+               <objcontrato>Consulta Prévia n.º 08-B/2018 – Aquisição de Caderno de Atividades...</objcontrato>
+               <preco>10.994,13 €</preco>
+               <datapub>26-11-2018</datapub>
+               <adjudicatario>João Castanheira Duarte</adjudicatario>
+          </contrato>
+          <contrato id="id431">
+               <objcontrato>Empreitada de “Pavimentações no Parque Industrial de Tábua”</objcontrato>
+               <preco>144.538,55 €</preco>
+               <datapub>19-11-2018</datapub>
+               <adjudicatario>SOCITOP UNIPESSOAL LDA</adjudicatario>
+          </contrato>
+          <contrato id="id432">
+               <objcontrato>Intervenções urgentes de regularização fluvial nas áreas afetadas pelos incêndios...</objcontrato>
+               <preco>103.763,50 €</preco>
+               <datapub>16-11-2018</datapub>
+               <adjudicatario>BEIRAJARDINS - Manutenção de JArdins , Lda</adjudicatario>
+          </contrato>
+          <contrato id="id433">
+               <objcontrato>Aquisição de 500 toneladas de mistura Betuminosa a Quente, incluindo...</objcontrato>
+               <preco>26.600,00 €</preco>
+               <datapub>16-11-2018</datapub>
+               <adjudicatario>Embeiral - Engenharia e Construção SA</adjudicatario>
+          </contrato>
+          <contrato id="id434">
+               <objcontrato>Aquisição de 500 toneladas de mistura betuminosa a frio, incluindo...</objcontrato>
+               <preco>23.100,00 €</preco>
+               <datapub>16-11-2018</datapub>
+               <adjudicatario>Embeiral - Engenharia e Construção SA</adjudicatario>
+          </contrato>
+          <contrato id="id435">
+               <objcontrato>Fornecimento contínuo de 130.000 litros de gasóleo rodoviário a granel,...</objcontrato>
+               <preco>134.523,00 €</preco>
+               <datapub>14-11-2018</datapub>
+               <adjudicatario>LUBRIFUEL - COMBUSTÍVEIS E LUBRIFICANTES, LDA</adjudicatario>
+          </contrato>
+          <contrato id="id436">
+               <objcontrato>Educação e Expressão Musical - 1º ciclo do Ensino Básico...</objcontrato>
+               <preco>54.890,00 €</preco>
+               <datapub>26-10-2018</datapub>
+               <adjudicatario>Edições Convite à Música, Lda Edições Convite à Música, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id437">
+               <objcontrato>Projeto de Combate ao Insucesso Escolar - Ambientes Inovadores e...</objcontrato>
+               <preco>23.025,00 €</preco>
+               <datapub>23-10-2018</datapub>
+               <adjudicatario>Skill Robotics, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id438">
+               <objcontrato>AD-12-S/2018 - Aquisição de Serviços de Manutenção do Sistema Avac...</objcontrato>
+               <preco>17.214,20 €</preco>
+               <datapub>19-10-2018</datapub>
+               <adjudicatario>Sistclima - Sistemas de Climatização e Automação, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id439">
+               <objcontrato>CPR-12-S/2018 Aquisição de serviços de manutenção dos relvados naturais do...</objcontrato>
+               <preco>63.600,00 €</preco>
+               <datapub>19-10-2018</datapub>
+               <adjudicatario>BEIRAJARDINS - Manutenção de Jardins , Lda</adjudicatario>
+          </contrato>
+          <contrato id="id440">
+               <objcontrato>Solução Integrada de Gestão e Aprendizagem</objcontrato>
+               <preco>26.970,00 €</preco>
+               <datapub>18-10-2018</datapub>
+               <adjudicatario>Forminho - Consultoria de Gestão e Formação, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id441">
+               <objcontrato>Empreitada de “Beneficiação da rede de distribuição de água nos...</objcontrato>
+               <preco>42.941,10 €</preco>
+               <datapub>15-10-2018</datapub>
+               <adjudicatario>Redáguas - Sociedade de Construções, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id442">
+               <objcontrato>Aquisição de Equipamentos Informáticos para a Câmara Municipal e Escolas...</objcontrato>
+               <preco>4.520,16 €</preco>
+               <datapub>12-10-2018</datapub>
+               <adjudicatario>Cardozugest,Lda</adjudicatario>
+          </contrato>
+          <contrato id="id443">
+               <objcontrato>Aquisição de Serviços de Acondicionamento, recolha, transporte e deposição em...</objcontrato>
+               <preco>18.347,40 €</preco>
+               <datapub>24-09-2018</datapub>
+               <adjudicatario>Ferrovial Serviços, SA</adjudicatario>
+          </contrato>
+          <contrato id="id444">
+               <objcontrato>AD-13-S/2018 "Aquisição de Serviços de Manutenção/Reparação de Viaturas e Máquinas...</objcontrato>
+               <preco>19.980,00 €</preco>
+               <datapub>19-09-2018</datapub>
+               <adjudicatario>Justino Amado, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id445">
+               <objcontrato>Aquisição de Números de Polícia para a Freguesia de Tábua</objcontrato>
+               <preco>19.057,00 €</preco>
+               <datapub>07-09-2018</datapub>
+               <adjudicatario>Metalúrgica da Catraia de José Fernandes, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id446">
+               <objcontrato>Aquisição de Serviços de Manutenção e Assistência Técnica do Software...</objcontrato>
+               <preco>9.000,00 €</preco>
+               <datapub>07-09-2018</datapub>
+               <adjudicatario>Arquivandus - Desenvolvimento, Representação e Comercialização de Software, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id447">
+               <objcontrato>Aquisição de Refeições Escolares transportadas a quente a que corresponde...</objcontrato>
+               <preco>77.611,20 €</preco>
+               <datapub>30-08-2018</datapub>
+               <adjudicatario>Eurest (Portugal) - Sociedade Europeia de Restaurantes, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id448">
+               <objcontrato>Aquisição Contínua de Pneus</objcontrato>
+               <preco>17.579,76 €</preco>
+               <datapub>28-08-2018</datapub>
+               <adjudicatario>José Marques Simplicio, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id449">
+               <objcontrato>Aquisição de Boletins Municipais</objcontrato>
+               <preco>11.830,00 €</preco>
+               <datapub>27-08-2018</datapub>
+               <adjudicatario>FIG - Indústrias Gráficas, S.A.</adjudicatario>
+          </contrato>
+     </municipio>
+     <municipio nome="VilaNovadePoiares">
+          <nif>505371600</nif>
+          <contrato id="id450">
+               <objcontrato>Prestação de serviços, para o Município de Vila Nova de...</objcontrato>
+               <preco>7.000,00 €</preco>
+               <datapub>18-01-2019</datapub>
+               <adjudicatario>C.T.G.A. - Centro Tecnológico de Gestão Ambiental, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id451">
+               <objcontrato>Aquisição de reparação de maquinas e viaturas incluindo a aquisição...</objcontrato>
+               <preco>7.500,00 €</preco>
+               <datapub>15-01-2019</datapub>
+               <adjudicatario>Luís &amp; Paulo Lopes Metalomecânica, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id452">
+               <objcontrato>Manutenção dos sistemas de AVAC – Centros escolares, biblioteca municipal...</objcontrato>
+               <preco>8.975,40 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Piclima - Projetos e instalações de climatização, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id453">
+               <objcontrato>Pavimentação do arruamento de acesso à Rua Maestro Eugénio de...</objcontrato>
+               <preco>4.632,50 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Rosas Construtores; S.A.</adjudicatario>
+          </contrato>
+          <contrato id="id454">
+               <objcontrato>Estudo Geológico e Geotécnico e Projeto de estabilidade de muro...</objcontrato>
+               <preco>6.620,00 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Açorgeo - sociedade de estudos Geotécnicos, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id455">
+               <objcontrato>Sustentação de taludes de estrada em Vale da Clara</objcontrato>
+               <preco>30.267,32 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Isidoro Correia da Silva, lda</adjudicatario>
+          </contrato>
+          <contrato id="id456">
+               <objcontrato>Prévia revisão dos projetos de execução para execução das infraestruturas...</objcontrato>
+               <preco>9.720,00 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>GEADA - Consultoria, Fiscalização e Projetos, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id457">
+               <objcontrato>Loteamento do séc. XXI - Execução de infraestruturas</objcontrato>
+               <preco>45.450,00 €</preco>
+               <datapub>03-01-2019</datapub>
+               <adjudicatario>Sociedade de Construções Elimur, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id458">
+               <objcontrato>Manutenção da Plataforma de Comunicações Unificadas do Município de Vila...</objcontrato>
+               <preco>17.808,00 €</preco>
+               <datapub>28-12-2018</datapub>
+               <adjudicatario>Edicopia, Sociedade de Equipamentos de Escritório, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id459">
+               <objcontrato>Aquisição serviços de telecomunicações fixas para o Município  de Vila...</objcontrato>
+               <preco>6.400,00 €</preco>
+               <datapub>14-12-2018</datapub>
+               <adjudicatario>Gotelecom, Unipessoal Lda</adjudicatario>
+          </contrato>
+          <contrato id="id460">
+               <objcontrato>Estabilização de emergência pós-incêndio - Elaboração e acompanhamento de candidaturas</objcontrato>
+               <preco>8.375,00 €</preco>
+               <datapub>10-12-2018</datapub>
+               <adjudicatario>Aflopinhal - Associação Florestal do Pinhal</adjudicatario>
+          </contrato>
+          <contrato id="id461">
+               <objcontrato>Aquisição de Viatura Ligeira de Passageiros</objcontrato>
+               <preco>14.024,39 €</preco>
+               <datapub>03-12-2018</datapub>
+               <adjudicatario>Stand Car Margem do Ceira unipessoal, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id462">
+               <objcontrato>Prestação de serviços de terraplanagem e movimentação de terras com...</objcontrato>
+               <preco>18.000,00 €</preco>
+               <datapub>28-11-2018</datapub>
+               <adjudicatario>Dueceira - Associação de Desenvolvimento do Ceira e Dueça</adjudicatario>
+          </contrato>
+          <contrato id="id463">
+               <objcontrato>Contrato de Prestação de Serviços na modalidade tarefa para apoio...</objcontrato>
+               <preco>6.900,00 €</preco>
+               <datapub>28-11-2018</datapub>
+               <adjudicatario>Susana Margarida da Silva Henriques</adjudicatario>
+          </contrato>
+          <contrato id="id464">
+               <objcontrato>Contrato de prestação de Serviços na modalidade tarefa para a...</objcontrato>
+               <preco>23.133,77 €</preco>
+               <datapub>28-11-2018</datapub>
+               <adjudicatario>Sara Daniela Simões Gomes</adjudicatario>
+          </contrato>
+          <contrato id="id465">
+               <objcontrato>Fornecimento diário de refeições nos Refeitórios Escolares dos Centros Escolares...</objcontrato>
+               <preco>71.362,56 €</preco>
+               <datapub>28-11-2018</datapub>
+               <adjudicatario>Procatering, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id466">
+               <objcontrato>Estabilização de Emergência Pós-Incêndio - Incêncios da Lousã/Serpins e Carvalhosas</objcontrato>
+               <preco>166.000,00 €</preco>
+               <datapub>21-11-2018</datapub>
+               <adjudicatario>JHOVITER – Construção Civil e Obras Públicas, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id467">
+               <objcontrato>Aquisição veículo quadriciclo 100% elétrico destinado ao Mercado Municipal</objcontrato>
+               <preco>38.150,00 €</preco>
+               <datapub>21-11-2018</datapub>
+               <adjudicatario>Wellgreen, Unipessoal, Lda.</adjudicatario>
+          </contrato>
+          <contrato id="id468">
+               <objcontrato>Contratação de transportes escolares</objcontrato>
+               <preco>52.351,25 €</preco>
+               <datapub>19-11-2018</datapub>
+               <adjudicatario>Miro Viagens, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id469">
+               <objcontrato>Locação de equipamentos novos de cópia, impressão e digitalização para...</objcontrato>
+               <preco>19.828,08 €</preco>
+               <datapub>24-10-2018</datapub>
+               <adjudicatario>Edicopia, Sociedade de Equipamentos de Escritório, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id470">
+               <objcontrato>Fornecimento continuo de Pó de Tout-Venant e Pó de Pedra</objcontrato>
+               <preco>36.360,00 €</preco>
+               <datapub>04-10-2018</datapub>
+               <adjudicatario>Iberobrita - Produtora de Agregados, SA</adjudicatario>
+          </contrato>
+          <contrato id="id471">
+               <objcontrato>Prestação de serviços na modalidade tarefa</objcontrato>
+               <preco>24.494,60 €</preco>
+               <datapub>03-10-2018</datapub>
+               <adjudicatario>Teresa de Carvalho Neves Figueiredo Mendes</adjudicatario>
+          </contrato>
+          <contrato id="id472">
+               <objcontrato>Beneficiação e conservação da rede viária em áreas afetadas pelos...</objcontrato>
+               <preco>26.858,40 €</preco>
+               <datapub>25-09-2018</datapub>
+               <adjudicatario>ISIDOVIAS - INVESTIMENTOS, LDA.</adjudicatario>
+          </contrato>
+          <contrato id="id473">
+               <objcontrato>Aquisição de serviços para localização e gestão de frotas por...</objcontrato>
+               <preco>9.709,20 €</preco>
+               <datapub>05-09-2018</datapub>
+               <adjudicatario>Digital Devotion, Lda</adjudicatario>
+          </contrato>
+          <contrato id="id474">
+               <objcontrato>Fornecimento continuo de emulsão e massa betuminosa a frio</objcontrato>
+               <preco>14.524,00 €</preco>
+               <datapub>04-09-2018</datapub>
+               <adjudicatario>ISIDORO CORREIA DA SILVA, LDA.</adjudicatario>
+          </contrato>
+     </municipio>
+</contratos>
